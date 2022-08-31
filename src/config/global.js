@@ -149,166 +149,113 @@ export default {
   },
   complementario: [
     {
-      tema:
-        'Producción por lotes u órdenes de producción.	Sistema de inventarios',
+      tema: 'Construcción de presupuestos',
       referencia:
-        'Martinez Rebeca. (2001, Noviembre 27). El inventario. Gestiopolis. Recuperado de',
-      tipo: 'Sitio Web',
-      link: 'https://www.gestiopolis.com/el-inventario',
-    },
-    {
-      tema: 'Cómo elaborar un Plan Maestro de Producción PMP',
-      referencia:
-        'EBC Escuela Bancaria Comercial.  [EBC Academia]. (2019, 22 de noviembre) ¿Cómo elaborar un plan maestro de producción?',
-      tipo: 'Video',
-      link: 'https://youtu.be/jSD2gNaVd3Q ',
-    },
-    {
-      tema: 'Cómo elaborar un Plan Maestro de Producción PMP',
-      referencia:
-        'Edwin Manuel Mieses Hernández.[Edwin Manuel Mieses Hernandez].  (2017, 16 de febrero). Plan Maestro de Producción Ejemplo en Excel.  ',
-      tipo: 'Video',
-      link: 'https://youtu.be/X2T8d9rZq6Y',
+        'Shapiro, J. (2001). Elaboración de un presupuesto. Alianza Mundial para la Participación Ciudadana, Civicus, Universidad de Michigan. ',
+      tipo: 'PDF',
+      descarga: '/downloads/anexo1.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Cargas de trabajo',
+      termino: 'Costo de producción',
+      significado: 'desembolso empleado para producir.',
+    },
+    {
+      termino: 'Costos directos',
       significado:
-        'Conjunto de requerimientos que debe realizar un trabajador en su jornada laboral.',
+        'representan el valor de aquellos recursos que se pueden identificar y cuantificar para cada unidad de producción.',
     },
     {
-      termino: 'Código sustantivo del trabajo',
+      termino: 'Elementos del costo',
       significado:
-        'Documento constitucional donde se especifican todas las normas que regulan el contexto laboral en el país.',
+        'materias primas e insumos, mano de obra y costos indirectos de fabricación.',
     },
     {
-      termino: 'Cuadro de control',
+      termino: 'Gasto de producción',
+      significado: 'desembolso empleado para administrar el proceso.',
+    },
+    {
+      termino: 'Insumos',
+      significado: 'elemento que sirve para armar o adornar el producto.',
+    },
+    {
+      termino: 'Inventario',
       significado:
-        'Documento donde se monitorizan procesos relacionados con la producción.',
+        'conteo que permite identificar plenamente las cantidades y valores (al costo) de todos los elementos de que dispone la empresa.',
     },
     {
-      termino: 'Días hábiles',
-      significado: 'Se refiere a los días del año que son laborables.',
-    },
-    {
-      termino: 'Estatus',
-      significado: 'Posición que se ocupa dentro de un grupo social.',
-    },
-    {
-      termino: 'Estudio de métodos',
+      termino: 'Mano de obra directa ',
       significado:
-        'Hace referencia al registro y el análisis de los procesos establecidos del trabajo.',
+        'recurso humano que transforma la materia prima y agrega valor.',
     },
     {
-      termino: 'Índice de productividad',
-      significado:
-        'Permite comparar el nivel de eficiencia de una empresa con relación a sus procesos.',
-    },
-    {
-      termino: 'Listado operacional',
-      significado:
-        'Se refiere al orden en que se realizan las actividades de un proceso.',
+      termino: 'Materias primas',
+      significado: 'corresponden al material más representativo del producto.',
     },
     {
       termino: 'Orden de producción',
       significado:
-        'Documento de instrucción que permite establecer la dirección de un proceso.',
+        'documento de instrucción que permite establecer la dirección de un proceso.',
     },
     {
-      termino: 'Polifuncionalidad',
+      termino: 'Precio de venta',
       significado:
-        'Capacidad de llevar a cabo distintas actividades en un mismo tiempo determinado.',
+        'resultado final de la sumatoria de costos más gastos e incluida la utilidad.',
     },
     {
       termino: 'Proceso productivo',
       significado:
-        'Conjunto de actividades que lleva a cabo una organización para generar productos o servicios.',
+        'conjunto de actividades que lleva a cabo una organización para generar productos o servicios.',
     },
     {
-      termino: 'Referencia',
-      significado: 'Código con el que se identifica una prenda.',
-    },
-    {
-      termino: 'Variables',
-      significado: 'Elementos característicos que pueden cambiar.',
-    },
-    {
-      termino: 'Ventaja competitiva',
+      termino: 'Rentabilidad',
       significado:
-        'Característica que distingue a una empresa sobre el mercado en general y se entiende como un valor agregado.',
+        'interés que genera el patrimonio que los socios tienen invertido en la empresa.',
+    },
+    {
+      termino: 'Salario',
+      significado:
+        'remuneración que se cancela cuando existe un contrato laboral.',
+    },
+    {
+      termino: 'Servicio',
+      significado: 'bien intangible que se le presta a un cliente.',
+    },
+    {
+      termino: 'Utilidad',
+      significado:
+        'porcentaje de lo que se espera ganar sobre los costos fijos.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Ararat, Alejandra. (2010). Estudio de Métodos y Tiempos en el Proceso Productivo de la Línea de Camisas Interior de MAKILA CTA., para mejorar la productividad de la empresa. Santiago de Cali: Universidad Autónoma de Occidente.',
-      link: 'https://red.uao.edu.co/handle/10614/1175',
+        'Chase, R. B., Jacobs, F. R., y Aquilano, N. J. (2011). Administración de la producción y operaciones para una ventaja competitiva. McGraw-Hill.',
     },
     {
       referencia:
-        'Empresa: investigación y pensamiento crítico, Edición Especial, 50-56.',
-      link: 'http://dx.doi.org/10.17993/3cemp.2017.especial.50-56',
+        'Delgado, J. (2001). Planificación y control de la producción. Fundación General Universidad Politécnica de Madrid.',
     },
     {
       referencia:
-        'García Criollo, Roberto. (2005). Estudio del trabajo: Ingeniería de métodos y medición del trabajo. Segunda edición. México: Mac Graw Hill.',
+        'Ingenio Empresa. (2016). Plan agregado de producción con fuerza de trabajo constante. [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=m0rv-ehb91A',
     },
     {
       referencia:
-        'Hanke, John E. y Wichern, Dean W. (2006). Pronósticos en los negocios novena edición. Pearson Educación, pp. 1-13.',
+        'Ingenio Empresa. (2016). Plan agregado de producción con fuerza de trabajo mínima y subcontratación. [Video]. YouTube.',
+      link: 'https://www.youtube.com/watch?v=kAlKUKpysco ',
     },
     {
       referencia:
-        ' Hernández, Juan Carlos, Vizán Idoipe, Antonio (2013) Lean Manufacturing editorial p. 6.',
+        'Shapiro, J. (2001). Elaboración de un presupuesto. Alianza Mundial para la Participación Ciudadana, Civicus. Universidad de Michigan.',
       link:
-        'https://www.eoi.es/es/savia/publicaciones/20730/lean-manufacturing-concepto-tecnicas-e-implantacion',
+        'https://www.academia.edu/38755199/Elaboraci%C3%B3n_de_un_presupuesto_DESCRIPCI%C3%93N_GENERAL_Resumen',
     },
     {
       referencia:
-        'Keat, Paul G. y Young, Philip K. Y. (2004). Economía de empresa. Pearson Educación, pp. 221-269',
-    },
-    {
-      referencia:
-        'Monks, Joseph G. (1991). Administración de operaciones. Serie Schaum. México: MacGraw Hill.',
-    },
-    {
-      referencia:
-        'OIT (1996). Introducción al estudio del trabajo. Ginebra: Oficina Internacional del Trabajo. Cuarta edición (revisada).',
-    },
-    {
-      referencia:
-        ' Proaño Villavicencio, D.X. (2017). Metodología para elaborar un plan de mejora continua 3CProaño Villavicencio, D.X. (2017). Metodología para elaborar un plan de mejora continua. 3C Empresa: investigación y pensamiento crítico, Edición Especial, 50-56',
-      link: 'http://dx.doi.org/10.17993/3cemp.2017.especial.50-56',
-    },
-    {
-      referencia:
-        ' Ramos, D (2018) Las siete herramientas estadísticas de calidad. Artículo de Qualiex- Blog de Calidad. ',
-      link: 'https://blogdelacalidad.com/las-siete-herramientas-de-la-calidad/',
-    },
-    {
-      referencia: 'Ruiz, Muñoz, D. (2014) Manual de estadística.',
-      link: 'https://www.eumed.net/cursecon/libreria/drm/24.pdf ',
-    },
-    {
-      referencia:
-        'Salazar, P, C; Del Castillo, G. S. (2018) Fundamentos básicos de estadística. Primera Edición.',
-      link:
-        'http://www.dspace.uce.edu.ec/bitstream/25000/13720/3/Fundamentos%20B%C3%A1sicos%20de%20Estad%C3%ADstica-Libro.pdf',
-    },
-    {
-      referencia:
-        'Sipper, Daniel y Bulfín, Robert L. Jr. Pplaneación y control de la producción Pg. 26.',
-      link:
-        'https://www.academia.edu/10997351/Daniel_Sipper_Planeaci%C3%B3n_y_Control_de_La_Producci%C3%B3n',
-    },
-    {
-      referencia:
-        'Westwood. John (1990). Planeación de mercados. Análisis evaluación y estrategias de Serie Empresarial, LEGIS.: Bogotá Colombia, Publicado Kogan Page Londres.',
-    },
-    {
-      referencia:
-        'William K, Hodson. Editor en jefe (1996). Maynard Manual Del Ingeniero Industrial enciclopedia tomo 1 a 4. Serie México: MacGraw Hill.',
+        'Westwood, J. (1991). Planeación de mercados. Análisis evaluación y estrategias de serie empresarial. Legis.',
     },
   ],
   creditos: {
@@ -337,12 +284,12 @@ export default {
         centro: 'Centro de Gestión Industrial - Regional Distrito capital',
       },
       {
-        nombre: 'Alix Cecilia Chinchilla Rueda',
+        nombre: 'Andrés Felipe Velandia Espitia',
         cargo: 'Asesor metodológico y pedagógico',
         centro: 'Centro del Diseño y la Metrología - Regional Distrito capital',
       },
       {
-        nombre: 'Sandra Patricia Hoyos Sepúlveda',
+        nombre: 'José Gabriel Ortiz Abella',
         cargo: 'Corrección de estilo',
         centro: 'Centro del Diseño y la Metrología - Regional Distrito capital',
       },
@@ -380,16 +327,6 @@ export default {
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',

@@ -309,6 +309,14 @@
       .col-md-4.col-12.px-0
         figure
           img(src='@/assets/curso/tema1/img29.svg')
+      .col-md-12.mt-5.mb-5.borde_2
+      .col-md-4.col-12.pe-1.mb-3.mb-lg-0
+        figure
+          img(src='@/assets/curso/tema1/img47.svg')
+      .col-md-8.col-12.px-0.mb-5
+        h3 Estructura de los costos fijos programados
+        p.p-3.bg12 Son una lista no menos importante de costos indirectos que no se modifica directamente y en simetría con los cambios y las acciones de manufactura logística, son llamados semivariables o semifijos. Se los nombra repetidamente ya sean como fijos o como variables, acción que estriba de sus particularidades predominantes, el más común es el salario de los líderes o supervisores de proceso. 
+      
       .row.justify-content-center.align-items-center
         .row
           .col-md-6.col-lg.tarjeta--tabla.p-4.borde

@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF2_12110086_PLANEACION_PRODUCCION/](https://ecored-sena.github.io/CF2_12110086_PLANEACION_PRODUCCION/)
 
 #
 

@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Verdadero o falso
-        p.mb-4 #[b Objetivo] Conceptualizar las definiciones de  cargas de trabajo, inventarios y Plan maestro de la producción para fortalecer los procesos logísticos en la prestación de servicio o creación de un producto.
+        p.mb-4 #[b Objetivo] Reconocer e identificar conceptos clave para el desarrollo de un plan estratégico de costos y presupuestos con miras a la sostenibilidad financiera de la empresa.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
