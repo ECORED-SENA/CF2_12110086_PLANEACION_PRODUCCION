@@ -154,30 +154,25 @@
     .row.mb-2.align-items-center
       .col-lg-4.bg1.p-3.mb-5
         h3.text-white.text-center.mb-0 Diferencia entre costo y gasto
-    .row.bg13.justify-content-center.align-items-center.p-5
+    .row.bg13.justify-content-center.align-items-center.p-5.mb-5
       .col-md-9.col-12
         p.p-3.bg12 El costo se muestra siempre en relación con el desembolso de un capital para afrontar un proceso logístico de manufactura o brindar un intangible, en su defecto el ítem del gasto se muestra por el desembolso de capital para administrar tareas de acompañamiento administrativo y de poner en venta lo que sea el resultado. 
       .col-md-3.col-12.p-3
         figure
           img(src='@/assets/curso/tema1/img16.svg')
-      .col-md-12
-        hr(style="border-color: #F14141 !important;")
+      .col-md-12.mt-5.mb-5.borde_2
       .col-md-3.col-12.p-3
         figure
           img(src='@/assets/curso/tema1/img18.svg')
       .col-md-9.col-12
         p.p-3.bg12 Un gasto administra un proceso de prestación de servicio o manufactura de un producto, por esta causa su control debe ser estricto. El costo, aunque su control es fijo, depende del mercado de proveedores. 
       .row.justify-content-center.align-items-center
-        .col-md-12
-          hr(style="border-color: #F14141 !important;")
-        .row.bg2.justify-content-center.align-items-center
+        .row.bg2.justify-content-center.align-items-center.borde
           .col-md-9
             p El costo forma parte integral del resultado obtenido, terminado o intangible,y es factible observarlo; en su defecto, el gasto es imperceptible, por lo tanto, supuestamente no es relevante para integrar el precio de venta de ambos.
           .col-md-2.col-12.p-3
             figure
               img(src='@/assets/curso/tema1/img17.svg')
-        .col-md-12
-          hr(style="border-color: #F14141 !important;")
     Separador
     #t_1_4
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -283,7 +278,7 @@
             .col-12
               figure
                 img(src='@/assets/curso/tema1/img26.png', alt='Texto que describa la imagen')
-            .col-12.bg9.p-4
+            .col-12.bg16.p-4
               h4.text-center Costos variables
               p.pb-3 Todos los valores monetarios y desembolsos donde la cantidad varía para ejecutar la acción.
       .col-sm-4.col-lg-4.mb-4.mb-lg-0
@@ -292,7 +287,7 @@
             .col-12
               figure
                 img(src='@/assets/curso/tema1/img27.png', alt='Texto que describa la imagen')
-            .col-12.bg11.p-4
+            .col-12.bg16.p-4
               h4.text-center Costos fijos
               p Desembolsos o valores económicos que en su valor monetario no cambia en concordancia a la acción de logística de manufactura. Estos permanecen un buen periodo de tiempo y su comportamiento histórico es muy constante.
     p.mb-5 En estructuras de contabilidad de costos se conocen tres esquemas:
@@ -306,8 +301,8 @@
       .col-md-8.col-12.px-0
         h3 Estructura de los costos fijos comprometidos
         p.p-3.bg12 Se registra como todo aquel desembolso que se perfila para soportar y maniobrar con los activos fijos, entre otros, aire acondicionado, iluminación, energía, agua, servicios de comunicación e internet. 
-      .col-md-12
-        hr(style="border-color: #F14141 !important;")
+      .col-md-12.mt-5.mb-5.borde_2
+        
       .col-md-8.col-12.pe-1.mb-3.mb-lg-0
         h4 Estructura de los costos fijos de operación
         p.p-3.bg12 Se registra como todo aquel ítem donde los valores y desembolsos de los proyectos específicos aprobados por la gerencia en el plan de maestro de la producción son de extrema prioridad,  algunos son los sistemas estructurales de gestión de la calidad, cambio a energías renovables, plan de inversión en recuperación de desperdicios de materias primas e insumos, entre otros.
@@ -315,26 +310,23 @@
         figure
           img(src='@/assets/curso/tema1/img29.svg')
       .row.justify-content-center.align-items-center
-        .col-md-12
-          hr(style="border-color: #F14141 !important;")
         .row
-          .col-md-6.col-lg.tarjeta--tabla.p-4
+          .col-md-6.col-lg.tarjeta--tabla.p-4.borde
             .row.justify-content-center.mb-3
               .col-4
                 img(src='@/assets/curso/tema1/img30.svg' alt='AvatarTop')
             p.py-3.text-center Diferenciar los costos fijos versus los variables, serán políticas y estrategias que coordina la gerencia con relación al entorno de las operaciones de la compañía. 
-          .col-md-6.col-lg.tarjeta--tabla.p-4
+          .col-md-6.col-lg.tarjeta--tabla.p-4.borde
             .row.justify-content-center.mb-3
               .col-4
                 img(src='@/assets/curso/tema1/img31.svg' alt='AvatarTop')
             p.text-center Universalmente, los costos fijos son indirectos con relación al producto; en un contexto gerencial logran ser directos con respecto al área o a la sección. 
-          .col-md-6.col-lg.tarjeta--tabla.p-4
+          .col-md-6.col-lg.tarjeta--tabla.p-4.borde
             .row.justify-content-center.mb-3
               .col-4
                 img(src='@/assets/curso/tema1/img32.svg' alt='AvatarTop')
             p.text-center En su defecto, los costos variables logran convertirse en directos con relación al producto, al área y a la sección productiva.
-        .col-md-12.mb-0
-          hr(style="border-color: #F14141 !important;")
+     
     .row.mb-2.align-items-center
       .col-lg-7.bg1.p-3.mb-5
         h3.text-white.text-center.mb-0 Relevancia de clasificar Gastos Indirectos de Fabricación (GIF)
@@ -378,597 +370,335 @@
           .tarjeta.tarjeta--azul
             .p-4
               p Los costos indirectos de manufactura y los costos de las áreas de servicios se determinan sobre estructuras a las dependencias de ensamble y se fijan en iguales circunstancias a manufactura, a medida que esta pasa por los centros de costos.
-      
-
-    
-
-           
-      
-    p En resumen, elaborar una secuencia operacional permite visualizar e identificar los eventos relevantes o actividades que van a intervenir en un proceso, calculando tiempos, máquinas e información, para de esa manera poder mejorar una situación actual.
-    p A continuación, veremos un ejemplo de una secuencia operacional, donde está el listado de las operaciones en un orden lógico, con las máquinas donde se ejecuta la operación, y el tiempo estándar que se demora cada una. Adicional se anotan observaciones pertinentes y que apunten a mejorar la productividad, y los nombres de las personas que hacen o harán la operación.
-
-    .titulo-sexto.color-acento-contenido
-      p.mb-0 #[b Ejemplo]. Listado de Operaciones
-    .tabla-a.color-acento-contenido.mb-5(data-aos="fade-right")
-      table
-        thead(style="background-color: #F14141")
-          tr 
-            th(colspan="4").text-center.text-white LISTADO OPERACIONES
-        tbody     
-          tr(style="background-color: #FABCBC")
-            th(colspan="4")
-             td(colspan="3").text-center #[b Referencia: 561007]
-             td(colspan="3").text-center #[b Orden de producción: 561007]
-             td(colspan="3").text-center #[b Fecha: 7/72021]
-          tr(style="background-color: #FDE2E2")
-            td.text-center #[b SEC]
-            td.mb-4.text-center.mb-0 DESCRIPCIÓN DE LA OPERACIÓN
-            td.mb-4.text-center.mb-0 MÁQUINA
-            td.mb-4.text-center.mb-0 SAM
-          tr
-            td.text-center 1
-            td.text-center.mb-0 Fijar marquilla
-            td.mb-4.text-center.mb-0 Plana1
-            td.mb-4.text-center.mb-0 0,308  
-          tr(style="background-color: #F6F6F6")
-            td.text-center 2
-            td.mb-4.text-center.mb-0 Unir hombro derecho
-            td.mb-4.text-center.mb-0 Filesc
-            td.mb-4.text-center.mb-0 0,394
-          tr
-            td.text-center 3
-            td.mb-4.text-center.mb-0 Sesgar cuello redondo
-            td.mb-4.text-center.mb-0 Recub1
-            td.mb-4.text-center.mb-0 0,972
-          tr(style="background-color: #F6F6F6")
-            td.text-center 4
-            td.mb-4.text-center.mb-0 Unir hombro izquierdo casando sesgo
-            td.mb-4.text-center.mb-0 Filesc
-            td.mb-4.text-center.mb-0 0,422
-          tr
-            td.text-center 5
-            td.mb-4.text-center.mb-0 Sesgar sisas x2
-            td.mb-4.text-center.mb-0 Recub1
-            td.mb-4.text-center.mb-0 1,448
-          tr(style="background-color: #F6F6F6")
-            td.text-center 7
-            td.mb-4.text-center.mb-0 Presilla x1 cuello
-            td.mb-4.text-center.mb-0 Presil
-            td.mb-4.text-center.mb-0 0,216
-          tr
-            td.text-center 8
-            td.mb-4.text-center.mb-0 Presilla sisas x2
-            td.mb-4.text-center.mb-0 Presil
-            td.mb-4.text-center.mb-0 0,610
-          tr(style="background-color: #F6F6F6")
-            td.text-center 9
-            td.mb-4.text-center.mb-0 Doblar ruedo bajo
-            td.mb-4.text-center.mb-0 Recub2
-            td.mb-4.text-center.mb-0 1,240
-          tr
-            td.text-center 10
-            td.mb-4.text-center.mb-0 Pulir y revisar esqueleto
-            td.mb-4.text-center.mb-0 Manual
-            td.mb-4.text-center.mb-0 1,276
-          tr(style="background-color: #F6F6F6")
-            td.text-center 11
-            td.mb-4.text-center.mb-0 Pegar <em>sticker</em> en etiqueta y bolsa
-            td.mb-4.text-center.mb-0 Manual
-            td.mb-4.text-center.mb-0 0,138
-          tr
-            td.text-center 12
-            td.mb-4.text-center.mb-0 Etiquetar x2
-            td.mb-4.text-center.mb-0 Manual
-            td.mb-4.text-center.mb-0 0,144
-          tr(style="background-color: #F6F6F6")
-            td.text-center 13
-            td.mb-4.text-center.mb-0 Doblar, empacar y encintar bolsa duo camisetas
-            td.mb-4.text-center.mb-0 Manual
-            td.mb-4.text-center.mb-0 0,412
-          tr
-            td(colspan="3").text-center #[b TOTAL]
-            td.mb-4.text-center.mb-0 8,972
-    Separador
-    #t_1_4
-    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.4	Capacidad productiva y cargas de trabajo
-    p La estrategia en la planeación de la capacidad productiva y las cargas de trabajo, es determinar qué tan preciso puede ser el equilibrio de los tres principales recursos de un proceso productivo, las personas, las máquinas y las materias primas. 
-    .row.justify-content-center(data-aos="fade-left").mb-5
-      .col-lg-6.mb-4
-        .tarjeta-avatar-b.mb-0.h-100
-          .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema1/img44.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
-            .p-4
-              p.mt-5 La organización de los tiempos en cuanto a las distintas actividades del proceso de producción es crucial para cumplir los objetivos propuestos.
-      .col-lg-6.mb-4
-        .tarjeta-avatar-b.mb-0.h-100
-          .tarjeta-avatar-b__img
-            img(src='@/assets/curso/tema1/img45.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
-            .p-4
-              p Por lo tanto, hacer un adecuado balanceo de líneas de producción, es la mejor técnica empleada en la asignación de cargas de trabajo y diseñar y aplicar la matriz de polifuncionalidad, lo que direcciona a los administrativos al descubrimiento de fortalezas y debilidades de los equipos de colaboradores. 
-    p.mb-5 En la situación actual de pequeños medianos y grandes empresarios, es necesarios desarrollar habilidades básicas dirigidas primordialmente a aportar al recurso humano poco calificado, en cómo mejorar los procesos logísticos de producción y servicios, siempre proyectando unos resultados finales óptimos en cuanto a costos y que satisfagan las necesidades de un cliente en términos de calidad. 
-    .row.mb-2.align-items-center
-      .col-lg-3.bg1.p-3.mb-5
-        h3.text-white.text-center.mb-0 Capacidad productiva
-    .row.mb-4.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-lg-6.mb-4.mb-lg-0
-        figure
-          img(src='@/assets/curso/tema1/img46.png').m-auto
-      .col-lg-6.mb-5
-        p.mb-5 #[b Se deben crear necesidades como]:
-        ul.lista-ul
-            li 
-              i.fas.fa-cog(style="color:#F14141")
-              | El cálculo de la capacidad productiva. 
-            li 
-              i.fas.fa-cog(style="color:#F14141")
-              | Estimar las cargas de trabajo y lo que son capaces de producir. 
-            li 
-              i.fas.fa-cog(style="color:#F14141")
-              | Realizar trazabilidad en tiempo presente a sus procesos.
-            li 
-              i.fas.fa-cog(style="color:#F14141").mb-4
-              | Concentrarse en elaborar unos completos listados operacionales.
-        p.mb-4.p-3.bg15.shadow  Que permitan una ilustración directa a los entes gerenciales, del manejo de los costos y un máximo aprovechamiento de los recursos.
-        p Planificar ordenada y permanentemente la capacidad productiva y las cargas de trabajo sin importar el tamaño de los lotes o el servicio a prestar, ayuda al empresario a desarrollar habilidades para establecer la realidad de su negocio, y se convierte en un instrumento técnico empleado para responder con puntualidad a los clientes sobre las fechas de entrega de sus productos o servicios.
-    .row.mb-2.align-items-center
-      .col-lg-5.bg1.p-3.mb-5
-        h3.text-white.text-center.mb-0 Capacidad instalada operativa. Horas hombre
-    .row.mb-4.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-lg-7
-        p Se refiere al número de minutos que utiliza el personal de mano de obra directa durante una jornada o periodo de trabajo, al realizar una actividad, utilizar cien por ciento la maquinaria disponible durante el ciclo laboral y calcular matemáticamente los minutos empleados para un servicio o una orden de producción específica; todo esto, con base en la aplicación estricta de los parámetros de calidad que se requieren para ensamblar una unidad de producción o precisamente la prestación del servicio.
-        p #[b Horas hombre]
-        p Para las corporaciones de manufactura y servicios hablar de capacidad instalada se refiere a volver tiempo, el componente vital del proceso productivo que es el factor humano. 
-        p.p-3.bg11 #[b Factor humano] <br> Técnicamente llamado minutos u horas hombre, que en operatividad de la infraestructura en maquinaria, tecnología digital y materias primas agrega valor y provee servicios o productos de óptima calidad. 
-      .col-lg-5.mb-4.mb-lg-0
-        figure
-          img(src='@/assets/curso/tema1/img47.png').m-auto
-    .row.mb-4.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-lg-5.mb-4.mb-lg-0
-        figure
-          img(src='@/assets/curso/tema1/img48.png').m-auto
-      .col-lg-7
-        p Los resultados obtenidos en cálculo de tiempo de las “horas hombre” se convierten en los elementos para determinar la trazabilidad porcentual de la carga instalada en unidad de tiempo y la asignación precisa de tareas a la infraestructura productiva.
-        p De estos factores dependen que los administrativos, proyecten el futuro económico que tanto les preocupa, con estrategias gerenciales y el importante conocimiento que poseen los colaboradores del proceso logístico. 
-        p.p-3.bg11 #[b Altos parámetros de calidad] <br> El resultado final es abastecer al mercado con productos y servicios que tengan altos parámetros de calidad, lo que significa una ventaja competitiva que las empresas sostienen en el tiempo. 
-    .row.mb-5.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-lg-7
-        .bloque-texto-c.color-secundario.p-4
-          i.fas.fa-quote-right
-          p.mb-3 Proveer al mercado de productos que colmen las expectativas de un consumidor final aumenta la demanda, la sostenibilidad y el crecimiento económico, así como el incremento del empleo para una región golpeada por la actual situación de salud y bajas económicas.
-          span  #[b (Valverde Chifla, 2014)].
-      .col-lg-5.mb-4.mb-lg-0
-        figure
-          img(src='@/assets/curso/tema1/img49.png').m-auto
-    .row.mb-2.align-items-center
-      .col-lg-8.bg1.p-3.mb-5
-        h3.text-white.text-center.mb-0 Cálculo matemático para la Carga instalada o minutos de producción.
-    p.mb-4 Para realizar su cálculo se emplean las siguientes #[span.txt-color2 variables]:
-    .row.justify-content-center.align-items-center.mb-5
-      .col-sm-4.col-lg-4.mb-4.mb-lg-0
-        .tarjeta--boton1.bg8.text-white.p-4.alt
-          .row.justify-content-center.mb-3
-            .col-12
-              figure
-                img(src='@/assets/curso/tema1/img50.png', alt='Texto que describa la imagen')
-          h4.text-center Número de personas de Mano de Obra Directa.
-          p.pb-3 Se define como el recurso humano directo que interviene en el proceso productivo, es decir, los personas que transforman la materia prima.
-      .col-sm-4.col-lg-4.mb-4.mb-lg-0
-        .tarjeta--boton1.bg8.text-white.p-4
-          .row.justify-content-center.mb-3
-            .col-12
-              figure
-                img(src='@/assets/curso/tema1/img51.png', alt='Texto que describa la imagen')
-          h4.text-center Jornada de trabajo.
-          p.pb-3 Periodo de tiempo estimado en la normatividad del Código Sustantivo del Trabajo colombiano, en el que se determinan un número de minutos horarios o diarios.
-      .col-sm-4.col-lg-4.mb-4.mb-lg-0
-        .tarjeta--boton1.bg8.text-white.p-4
-          .row.justify-content-center.mb-3
-            .col-12
-              figure
-                img.img(src='@/assets/curso/tema1/img52.png', alt='Texto que describa la imagen')
-          h4.text-center Constante de días productivos por mes.
-          p Para obtener este dato se debe calcular un promedio estadístico de la sumatoria de los días hábiles de producción por cada mes, lo cual numéricamente se estima que se trabaja con 24 días.    
-    p.mb-5 Así, para determinar la  #[span.txt-color2 Capacidad Instalada Operativa] se debe realizar la siguiente  #[span.txt-color2 fórmula]:
-    .row.justify-content-center.mb-5
-      .col-lg-10
-        figure
-          img.img(src='@/assets/curso/tema1/img53.svg', alt='Texto que describa la imagen')
-    p Para comprender un poco más acerca de la capacidad instalada operativa aplicada al contexto laboral, se presenta un ejemplo ilustrativo:
-    .row.mb-2.align-items-center
-      .col-lg-3.bg1.p-3.mb-5
-        h3.text-white.text-center.mb-0 Hilos y Dedales S.A.S.
-    .row.bg11.justify-content-center.align-items-center.p-5
-      .col-md-9.col-12
-        p La empresa tiene una planta de manufactura y cuenta con dos módulos de ensamble que poseen personal de mano de obra directa de  9 y 8 personas respectivamente;  y un módulo en el área de empaque con 14 personas. 
-        p.p-3.bg12 La empresa labora de lunes a sábado, 8 horas diarias. Por ello, se pide calcular la capacidad instalada operativa, por equipos de trabajo, durante una hora, un día y un mes. 
-      .col-md-3.col-12.p-3
-        img(src='@/assets/curso/tema1/img54.svg')
-    .row.bg13.justify-content-center.align-items-center.p-5.mb-5
-      .tabla-a.color-acento-contenido.mb-5 
-        table
-          thead
-            tr 
-              th(colspan="5").text-center CAPACIDAD INSTALADA OPERATIVA MÓDULO 1 
-          tbody
-            tr
-              td.text-center Variable
-              td.text-center Nro. de Personas de M.O.D
-              td.text-center Jornada de trabajo
-              td.text-center Constante días producción
-              td.text-center Total, minutos operativos instalados 
-            tr
-              td.text-center Hora
-              td.text-center 9
-              td.text-center 60
-              td.text-center 1
-              td.text-center 540
-            tr
-              td.text-center Día
-              td.text-center 9
-              td.text-center 480
-              td.text-center 1
-              td.text-center 4.320
-            tr
-              td.text-center Mes
-              td.text-center 9
-              td.text-center 480
-              td.text-center 24
-              td.text-center 103.680
-      .tabla-a.color-secundario.mb-5 
-        table
-          thead
-            tr 
-              th(colspan="5").text-center CAPACIDAD INSTALADA OPERATIVA MÓDULO 2
-          tbody
-            tr
-              td.text-center Variable
-              td.text-center Nro. de Personas de M.O.D
-              td.text-center Jornada de trabajo
-              td.text-center Constante días producción
-              td.text-center Total, minutos operativos instalados 
-            tr
-              td.text-center Hora
-              td.text-center 8
-              td.text-center 60
-              td.text-center 1
-              td.text-center 480
-            tr
-              td.text-center Día
-              td.text-center 8
-              td.text-center 480
-              td.text-center 1
-              td.text-center 3.840
-            tr
-              td.text-center Mes
-              td.text-center 8
-              td.text-center 480
-              td.text-center 24
-              td.text-center 92.160
-      .tabla-a.color-acento-botones.mb-5 
-        table
-          thead
-            tr 
-              th(colspan="5").text-center CAPACIDAD INSTALADA OPERATIVA ÁREA DE EMPAQUE 
-          tbody
-            tr
-              td.text-center Variable
-              td.text-center Nro. de Personas de M.O.D
-              td.text-center Jornada de trabajo
-              td.text-center Constante días producción
-              td.text-center Total, minutos operativos instalados 
-            tr
-              td.text-center Hora
-              td.text-center 14
-              td.text-center 60
-              td.text-center 1
-              td.text-center 840
-            tr
-              td.text-center Día
-              td.text-center 14
-              td.text-center 480
-              td.text-center 1
-              td.text-center 6.7200
-            tr
-              td.text-center Mes
-              td.text-center 14
-              td.text-center 480
-              td.text-center 24
-              td.text-center 161.280
-    .row.bg14.justify-content-center.align-items-center.p-5.mb-5
-      .col-md-3.col-12.p-3
-        img(src='@/assets/curso/tema1/img57.png')
-      .col-md-9.col-12
-        p En la interpretación técnica es posible evidenciar que el Módulo 1 con 9 personas, aporta 540 minutos en una hora, 4.320 minutos en un día y 103.680 minutos en un mes. Igualmente se muestran los resultados en el Módulo 2 y el Área de Empaque. De esta forma, se presentan múltiples usos que poseen estos datos numéricos para la planeación de la producción en la empresa. 
-    .row.mb-5.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-lg-7
-        .bloque-texto-c.color-secundario.p-4
-          i.fas.fa-quote-right
-          p.mb-3 En síntesis, la capacidad instalada operativa se asocia a las personas, lo cual se define como el número de minutos que se obtiene del personal de mano de obra directa, utilizando como variables la jornada de trabajo y el número de días productivos por mes que en promedio suman 24 días. 
-          span  #[b (OIT, 1996)].
-      .col-lg-5.mb-4.mb-lg-0
-        img(src='@/assets/curso/tema1/img58.png').m-auto
-    .row.mb-2.align-items-center
-      .col-lg-5.bg1.p-3.mb-5
-        h3.text-white.text-center.mb-0 Carga instalada o minutos de producción
-    .row.mb-5.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-lg-12.mb-5.mb-lg-0
-        .bloque-texto-d.color-secundario.p-4
-          .bloque-texto-b__texto.mb-2
-            i.fas.fa-quote-left
-            h3.text-regular Se asocia al tiempo que aporta una orden de producción específica, con base en el tiempo estándar y el número de unidades programadas en ella. Los minutos de producción aportan inventario de carga de tiempo para realizar la planeación y la programación de la planta de producción, ya sea horaria, diaria, semanal, entre otros.
-            i.fas.fa-quote-right
-          .bloque-texto-d__autor 
-            .h6.mb-0 (Valverde Chifla, 2014).
-    .bg16
-      p.mb-5 Para realizar su cálculo se emplean las siguientes #[span.txt-color2 variables]:
-      .row.justify-content-center.align-items-center.mb-5
-        .col-sm-6.col-lg-4.mb-4.mb-lg-0
-          .tarjeta--boton1.bg8.text-white.p-5.alt
-            .row.justify-content-center.mb-0
-              .col-12
-                figure
-                  img(src='@/assets/curso/tema1/img60.png', alt='Texto que describa la imagen')
-            h3.text-center Número de Unidades de la orden de producción
-            p Se define como el total de unidades asociadas a una orden de producción específica.
-        .col-lg-1
-        .col-sm-6.col-lg-4.mb-4.mb-lg-0
-          .tarjeta--boton1.bg8.text-white.p-5.alt
-            .row.justify-content-center.mb-0
-              .col-12
-                figure
-                  img(src='@/assets/curso/tema1/img61.png', alt='Texto que describa la imagen')
-            h3.text-center Tiempo estándar de la prenda
-            p Es la unidad de medida de tiempo en minutos de una prenda de vestir, se obtiene mediante un estudio de métodos y tiempos que da como resultado precisamente el tiempo estándar de la prenda.
-      p.mb-5 Así, para determinar la #[span.txt-color2 Carga Instalada o minutos de Producción] se debe realizar la siguiente #[span.txt-color2 fórmula]:
-    .row.justify-content-center.mb-5
-      .col-lg-10
-        figure
-          img.img(src='@/assets/curso/tema1/img62.svg', alt='Texto que describa la imagen')
-    p.mb-5 Con el siguiente ejemplo ilustrativo, se puede comprender un poco más acerca de la carga instalada o minutos de producción aplicada al contexto laboral:
-    .row.mb-2.align-items-center
-      .col-lg-4.bg1.p-3.mb-5
-        h3.text-white.text-center.mb-0 Manufacturamos Prendas S.A.S.
-    .row.bg17.justify-content-center.align-items-center.p-5
-      .col-md-3.col-12.p-3
-        img(src='@/assets/curso/tema1/img64.svg')
-      .col-md-6.col-12
-        p La empresa tiene una planta de manufactura y cuenta con dos módulos de ensamble que poseen personal de mano de obra directa de  9 y 8 personas respectivamente;  y un módulo en el área de empaque con 14 personas. 
-    .row.bg13.justify-content-center.align-items-center.p-5.mb-5
-      .col-md-10.col-12
-        p.p-3.bg12 La empresa labora de lunes a sábado, 8 horas diarias. Por ello, se pide calcular la capacidad instalada operativa, por equipos de trabajo, durante una hora, un día y un mes. 
-      .col-md-3.col-12.p-3
-        img(src='@/assets/curso/tema1/img54.svg')
-  
-      .tabla-a.color-acento-contenido.mb-5 
-        table
-          thead
-            tr 
-              th(colspan="8").text-center CAPACIDAD INSTALADA OPERATIVA MÓDULO 1 
-          tbody
-            tr
-              td.text-center Fecha de ingreso
-              td.text-center Referencia
-              td.text-center Descripción
-              td.text-center Orden de producción
-              td.text-center Número de unidades   orden producción
-              td.text-center Tiempo estándar
-              td.text-center Total minutos de producción 
-              td.text-center Fecha de despacho
-            tr
-              td.text-center 7/07/2021
-              td.text-center 434343
-              td.text-center Blusa Irina
-              td.text-center 102323
-              td.text-center 457
-              td.text-center 12,3
-              td.text-center 5621,1
-              td.text-center 18/07/2021
-            tr
-              td.text-center 8/07/2021
-              td.text-center 434344
-              td.text-center Blusa lunar
-              td.text-center 102324
-              td.text-center 535
-              td.text-center 15,4
-              td.text-center 8239
-              td.text-center 19/07/2021
-            tr
-              td.text-center 9/07/2021
-              td.text-center 434345
-              td.text-center Blusa angelical
-              td.text-center 102325
-              td.text-center 840
-              td.text-center 9,81
-              td.text-center 8.240,4
-              td.text-center 21/07/2021
-            tr
-              td.text-center 10/07/2021
-              td.text-center 434346
-              td.text-center Blusa triangular
-              td.text-center 102326
-              td.text-center 1.241
-              td.text-center 10,5
-              td.text-center 13,030,5
-              td.text-center 22/07/2021
-    .row.bg18.justify-content-center.align-items-center.p-5.mb-5
-      .col-md-2.col-12.p-3
-        img(src='@/assets/curso/tema1/img67.svg').mx-auto
-      .col-md-9.col-12
-        p En la tabla, es posible conocer la fecha de ingreso de las órdenes de producción con sus respectivas referencias, descripción, número de unidades, tiempo estándar, total de minutos de producción y la fecha de despacho.
-
-    .row.bg19.justify-content-center.align-items-center.p-5.mb-5
-      .col-md-2.col-12.p-3
-        img(src='@/assets/curso/tema1/img68.svg').mx-auto
-      .col-md-9.col-12
-        p A partir de la información suministrada se puede interpretar técnicamente que la referencia 434343 con orden de producción número 102223, aporta al proceso un total de 5.621,1 minutos o que la referencia 434346 con orden de producción número 102226, aporta al proceso un total de 13.030,5 minutos. 
-        p.mb-4 De esta manera, los datos presentados en este formato se convierten en el insumo vital para planear y programar en la planta de producción.
     .row.mb-2.align-items-center
       .col-lg-6.bg1.p-3.mb-5
-        h3.text-white.text-center.mb-0 Carga instalada en minutos técnicos. Horas máquina
-    .row.mb-5.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-lg-7
-        .bloque-texto-d.color-secundario.p-0
-          .bloque-texto-b__texto.mb-0
-            i.fas.fa-quote-left
-            h3.text-regular Se asocia a la diversidad de máquinas con que cuentan las plantas de manufactura, aunque esta carga es poco empleada para protocolos de programación, los minutos técnicos muestran las restricciones que tienen las empresas con respecto a la maquinaria. Igual que los anteriores tipos de cargas, son los minutos asociados al parque de inventario disponible durante una jornada de trabajo, igualmente al tiempo que aportan los recursos de guías y accesorios que acompañan al departamento de producción, además de la calidad y áreas de montaje del producto.
-            i.fas.fa-quote-right
-          .bloque-texto-d__autor.mb-5 
-            .h6.mb-0 (Valverde Chifla, 2014).
-        p.p-3.bg5 Si bien una persona puede ser remplazada en el proceso, no pasa lo mismo con la no disponibilidad de una máquina, puesto que esta situación puede acarrear caos al proceso y baja en el índice de productividad de la compañía. 
-      .col-lg-5.mb-4.mb-lg-0
-        img(src='@/assets/curso/tema1/img69.png').m-auto
-    .bg16
-      p.mb-5 Para realizar su cálculo se emplean las siguientes #[span.txt-color2 variables]:
-      .row.justify-content-center.align-items-center.mb-5
-        .col-sm-6.col-lg-4.mb-4.mb-lg-0
-          .tarjeta--boton1.bg8.text-white.p-5.alt
-            .row.justify-content-center.mb-0
-              .col-12
-                figure
-                  img(src='@/assets/curso/tema1/img70.png', alt='Texto que describa la imagen')
-            h3.text-center Número de Unidades de la orden de producción
-            p Se define como el total de unidades asociadas a una orden de producción específica.
-        .col-lg-1
-        .col-sm-6.col-lg-4.mb-4.mb-lg-0
-          .tarjeta--boton1.bg8.text-white.p-5.alt
-            .row.justify-content-center.mb-0
-              .col-12
-                figure
-                  img(src='@/assets/curso/tema1/img71.png', alt='Texto que describa la imagen')
-            h3.text-center Jornada de trabajo
-            p Periodo de tiempo estimado en la normatividad del Código Sustantivo del Trabajo colombiano, en el que se determinan un número de minutos horarios o diarios.
-      p.mb-5 Así, para determinar la #[span.txt-color2 Carga Instalada en minutos Técnicos] se debe realizar la siguiente #[span.txt-color2 fórmula]:
-    .row.justify-content-center.mb-5
-      .col-lg-10
+        h3.text-white.text-center.mb-0 Clasificación de los costos generales de producción
+    p.mb-5 En producción, la contabilidad de costos posee una alta gama de categorizaciones, entre ellas figuran:
+    .tabla-a.color-acento-contenido.mb-5 
+      table
+        thead
+          tr
+            th(colspan="3") Estructura
+            th(colspan="9") Clasificación 
+        tbody
+          tr
+            td(colspan="3") Estructura acorde a su variabilidad.
+            td(colspan="9") ●	Se catalogan como fijos. <br> ●	Se catalogan como variables.
+
+          tr
+            td(colspan="3") Estructura según los departamentos.
+            td(colspan="9") ●	Etapas de producción; entre otros: sección de corte, producción y terminación. <br> ●	Se catalogan Se catalogan como productivos: maniobran sobre el bien en todas las como servicios: se usan como soporte administrativo para bienes y logística de ensamble; entre otros: secciones de soporte técnico, sistemas de acompañamiento en seguridad privada.
+          tr
+            td(colspan="3") Estructura de acuerdo a su aplicación.
+            td(colspan="9") ●	Se catalogan sobre aplicados. <br> ●	Se catalogan sub aplicados.
+          tr
+            td(colspan="3") Estructura con base en el tiempo.
+            td(colspan="9") ●	Se catalogan como reales (históricos): se determinan construyendo una histórica base de datos. <br> ●	Se catalogan como predeterminados: se calculan con antelación y soportados en el plan maestro de la producción. 
+          tr
+            td(colspan="3") Estructura según el prorrateo.
+            td(colspan="9") ●	Se catalogan como primarios. <br> ●	Se catalogan como secundarios.<br> ● Se catalogan como terciarios. <br> ●	Se catalogan como los gastos indirectos de fabricación: son largas listas individuales por orden de fabricación, que pueden acoplarse dependiendo de la esencia del gasto (materias primas e insumos de carácter indirecto). Se establece un número porcentual único y suficiente que las reemplaza, simplificando internamente esta larga lista de gastos; este porcentaje respalda con mayor seguridad el margen de contribución establecido por decisiones corporativas y para facilitar la vigilancia de estas estructuras de costos para toda la planta. Con su uso se garantiza que no se quede por fuera ningún ítem que perjudique el precio de venta del bien o servicio. 
+    p.mb-5 No obstante, colectivamente la organización administrativa de las industrias, integra sistemas de costos por números que individualizan en secciones, o centros de costos, como una base estructural de control del dinero invertido y soporte funcional para que los procesos no se paren y no causen desequilibrio económico. 
+    .row.align-items-center.mb-5
+      .col-lg-7(data-aos="fade-right")
+        p.p-3.bg5 Es relevante conservar un balance estadístico económico de control de los Costos Indirectos de Fabricación (CIF), según la infraestructura tecnológica y digital de la compañía, cuidando la naturaleza de la logística de ensamble y estrategias de responsabilidad gerencial, determinantes en la conservación de la buena credibilidad de los clientes, con base en las estructuras de costos.
+        p.mb-4 De esta manera, se establece un panorama estructural basado en la complejidad de los costos de los bienes manufacturados que involucra una lista de asignación de todos los CIF y crea paralelos de análisis de toda la información documentada para establecer finalmente el precio de venta del bien o servicio. Asimismo, con el propósito de simplificar los procedimientos en cuanto a costos, los departamentos proporcionan servicios solidariamente consiguiendo logros conjuntos con alto valor y adecuada exactitud, para la asignación precisa de gastos de manufactura, disminuyendo el valor de producir y por lo tanto obteniendo precios competitivos de venta.
+      .col-lg-5
         figure
-          .col-md-3.col-6.mb-md-0.mb-4.bg20
+          img.mb-5(src='@/assets/curso/tema1/img34.png')(data-aos="fade-left")
+    .row.mb-5.justify-content-center
+      .col-10.bg6.p-4
+        .row.align-items-center.justify-content-center
+          .col-lg-11
+            p.mb-0 Para profundizar en este tema se sugiere que consulte en la web el eBook Contabilidad y análisis de costos de Magdalena Arredondo, específicamente el capítulo 2, pp.11-30.
+          .col-lg-1.mb-3
+            figure
+              img.img-t(src='@/assets/curso/tema1/img80.svg').mx-auto(data-aos="fade-right")
     Separador
     #t_1_5
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.5 Producción por lotes u órdenes de producción
-    p Se define una orden de producción como una estructura de costos asociada a un número determinado de unidades o la instrucción para la ejecución de un servicio. 
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg.align-items-center
-        .row
-          .col.bg3(data-aos="fade-left").mb-4
-            p.mt-3 Se elabora un listado de todos los requerimientos para poder elaborar el producto o prestar el servicio.
-          .col-lg-1.px-0
-            figure
-              img.img26.d-none.d-lg-block(src='@/assets/curso/tema1/img73.svg')
-      .col-lg-3.mb-4
-        .tarjeta--boton.bg22.text-white.px-5.ps-5.pb-3
-          .row.justify-content-center.mb-0
-            .col-lg-8
+      h2 1.5 Clasificación de los costos de producción
+    p.mb-5 En la actual industria de manufactura relacionar de forma coherente y estructurada los costos sostenibles de producción y servicio, se convierte en un dilema para los gerentes de las compañías, cuya estrategia es basarse en la división por estructuras que los expertos contables aportaron en sus textos en épocas pasadas, la importancia que representa esta división para el futuro económico es de alta relevancia; por eso se da la siguiente clasificación:
+    .tabla-a.color-acento-contenido.mb-5 
+      table
+        thead
+          tr
+            th Clasificación de costos
+            th Estructuras de costos
+            th Para tener en cuenta…
+        tbody
+          tr
+            td(rowspan="3")  Estructura general de costos de producción.
+            td Costos periódicos con base en órdenes de producción. 
+            td(rowspan="3")
+          tr
+            td Costos de materias primas e insumos en inventario.
+          tr
+            td Costos administrativos.
+          tr(style="background-color: #F6F6F6")
+            td Estructuras de costos acordes al procedimiento.
+            td Estructura de costos de manufactura y/o producción: intervienen cuando modificamos materiales e insumos, creamos bienes de consumo, incurrimos en desembolsos de capital, se presta un servicio o se relaciona la materia prima en productos terminados: costo de los materiales integrados al producto, mano de obra y gastos de fabricación indirectos que intervienen en la transformación del producto (con excepción de la materia prima y la mano de obra directa).
+            td 
+          tr
+            td(rowspan="3")
+            td Estructura de costos logísticos de distribución: incurren en esta etapa costos de transporte desde el lugar de producción hasta puntos de venta
+            td(rowspan="3") 
+          tr
+            td Estructura de costos logísticos de administración: Se crean en las secciones administrativas de las corporaciones.
+          tr
+            td Estructura de costos variables: directamente relacionados con unidades específicas, o por encargo, o pedido. En el lenguaje común de una planta de manufactura se conocen como fijos.
+          tr(style="background-color: #F6F6F6")
+            td(rowspan="4") Estructuras de costos acordes a la actividad, con respecto a su variabilidad.
+            td Estructura de costos semivariables: se conocen como fijos; en otros momentos de producción poseen una variabilidad bastante marcada. Comúnmente se refiere al personal indirecto o el gasto de servicios públicos, entre otros.
+            td(rowspan="4") 
+          tr(style="background-color: #F6F6F6")
+            td Estructura de costos fijos: sistemas históricos y estructurales, se emplean en tiempo presente a corto y mediano periodo de tiempo.
+          tr(style="background-color: #F6F6F6")
+            td Estructura de costos fijos discrecionales: nómina de empleados y administrativos comúnmente.
+          tr(style="background-color: #F6F6F6")
+            td Estructura de costos fijos comprometidos: la depreciación de activos de la compañía siempre está presente.
+          tr
+            td(rowspan="5") Estructuras de costos acorde a la identificación específica del costo.
+            td Estructuras de costos directos: muy conocidas en el cálculo estructural del costo, materias primas insumos y mano de obra.
+            td(rowspan="2") Una estructura de costos definido como directos para un departamento, resulta que puede convertirse en una estructura de costos indirectos en otra área.
+          tr
+            td Estructuras de costos indirectos: de carácter administrativo y logístico realmente participan activamente en el precio de venta del bien o servicio.
+          tr
+            td Estructuras de costos según los antecedentes y doctrinas: se correlacionan con valores que las compañías emplean para preservar elementos particulares de proceso, componentes que requieren de cierta confidencialidad y esto encarece su valor económico.
+            td(rowspan="3") Los sistemas estructurales de costos siempre estarán presentes como columna vertebral de los departamentos logísticos de producción de bienes y servicios, puesto que deben permanecer disponibles, emplearse en otras secciones del negocio, procedimientos, procesos, actividades y productos. El empleo de sistemas de costos indirectos involucra el empleo de una base histórica que señale de forma clara en que se usan, el costo indirecto si no se controla puede llegar a encarecer el bien o el servicio.
+          tr
+            td Estructuras de costos según históricos: ciclos de tiempo preestablecidos.
+          tr
+            td Estructuras de costos según elementos de tiempo, materiales e insumos predeterminados: se establecen por bases porcentuales estadísticas y se relacionan en presupuestos con antelación.
+          tr(style="background-color: #F6F6F6")
+            td(rowspan="2") En concordancia con periodos de oferta y demanda según el tiempo.
+            td Estructuras de costos según el período: los costos de materiales e insumos se correlacionan con periodos de tiempo en el transcurso del año dependiendo de oferta demanda del mercado, cosechas normalmente.
+            td(rowspan="2") 
+          tr(style="background-color: #F6F6F6")
+            td Estructuras de costos según el producto: correlacionan estos costos por el tipo de venta del producto final, crédito o contado lo más común. 
+          tr
+            td(rowspan="2") En concordancia con el grado de control
+            td Estructuras de costos controlables: materiales, materias primas e insumos bajo normativa de venta restringida por el gobierno.  demanda del mercado, cosechas normalmente.
+            td(rowspan="4") La infraestructura de costos, realmente es un valor monetario que se desprende del precio de venta de un producto o servicio prestado, es el resultado de los eventos que acompañan abastecer la oferta y demanda del mercado, satisfacer requerimientos y suplir necesidades de la humanidad, crear abundancia de altos parámetros de calidad y reabastecer la corporación de ingresos económicos para extender en el tiempo los procesos.
+          tr
+            td Estructuras de costos no controlables: dependen de la oferta y demanda del mercado con la exigencia por parte de proveedores de establecer con tiempo prudente los pedidos.
+          tr
+            td(rowspan="2") En concordancia con periodos contables, según su registro y cómputo
+            td Estructuras de costos con asignación contable: desembolsos restringidos al número de unidades a producir, por el monto oneroso. 
+          tr
+            td Estructuras de costos con carácter económico y técnico: calcula erogaciones para la compra de infraestructura tecnológica y digital con base en la posición económica de la compañía.
+          tr(style="background-color: #F6F6F6")
+            td(rowspan="9") Estructuras de costos en concordancia con la aplicación de estrategias que acompañan la toma de decisiones.
+            td Estructuras de costos relevantes: la colocación en los procesos productivos de pedidos especiales abren esta clase de costos que con la expresión emergencia se dispone de inmediato de recursos para la consecución de los mismos. 
+            td(rowspan="9") 
+          tr(style="background-color: #F6F6F6")
+            td Estructuras de costos irrelevantes: son adquiridos para dejarlos en inventario considerados como partícipes del ensamble de productos de línea en la empresa.
+          tr(style="background-color: #F6F6F6")
+            td Estructuras de costos desembolsables: aquellos cuyo costo se debe pagar sin ningún tipo de ventajas ni de tiempo ni arancelaria.
+          tr(style="background-color: #F6F6F6")
+            td Estructuras de costos de oportunidad: desembolsos realizados para adquirir inventarios que por subasta aparecen en el mercado a bajo costo.
+          tr(style="background-color: #F6F6F6")
+            td Estructuras de costos de acuerdo con los cambios originados por un aumento o disminución en la actividad, eventos de orden público, pandemias, entre otros.
+          tr(style="background-color: #F6F6F6")
+            td Estructuras de costos con diferenciales: se originan por cambios monetarios en el precio de adquisición, originados por inflación en los países.
+          tr(style="background-color: #F6F6F6")
+            td Estructuras de costos decrementales: disminución de la demanda del producto.
+          tr(style="background-color: #F6F6F6")
+            td Estructuras de costos con parámetros incrementales: aumento en la demanda de bienes y servicios.
+          tr(style="background-color: #F6F6F6")
+            td Estructuras de costos sumergidos: costos ocultos en el proceso no se contaba con ellos.
+          tr
+            td(rowspan="2") Estructuras de costos en concordancia a una disminución de actividades:
+            td Sistemas estructurales de costos evitables: costos reales presentes en la manufactura de un bien o prestación de servicios, pero son eventuales y no se contaba con ellos. 
+            td(rowspan="2") 
+          tr
+            td Sistemas estructurales de costos inevitables: sí o sí están presentes en la hoja de relación de costos del producto o servicio.     
+    p.mb-5 Algunos aspectos de relevancia presentes en los sistemas de costos son:  
+    .row.justify-content-center.align-items-center.mb-5
+      .col-sm-4.col-lg-6.mb-4.mb-lg-0
+        .tarjeta--boton2.bg8.text-black.p-4.mb-5
+          .row.justify-content-center.mb-3
+            .col-9
               figure
-                img(src='@/assets/curso/tema1/img76.svg', alt='Texto que describa la imagen')
-            h3.text-center Costos por órdenes de producción
-            p Es una estrategia para separar una matriz  de compra de otra, así sea similar.
-      .col-lg.align-items-center
-        .row
-          .col-lg-1.px-1
-            figure
-              img.img26.d-none.d-lg-block(src='@/assets/curso/tema1/img74.svg')
-          .col.bg5(data-aos="fade-left")
-            p.mt-3 Una  infraestructura digital o manual, asigna los valores monetarios para que los líderes de procesos den como resultado final y preciso el precio de venta.
-    p.mb-5 Empleamos este sistema cuando se fabrican pedidos especiales cerrados, cumpliendo con unas especificaciones precisas y personalizadas de un cliente. La materia prima, los insumos y ciertos conocimientos aplicados son especiales, por tanto los costos son separados de otras órdenes así sean similares, entre otros ejemplos, joyería, muebles, fiestas, eventos, vestuario a medida, una vivienda. Este sistema es uno de los más empleados por su eficacia y precisión.        
+                img(src='@/assets/curso/tema1/img27.png', alt='Texto que describa la imagen')
+            .col-12.bg9.p-4
+              h4.text-center Costos fijos
+              ul.lista-ul
+                li 
+                  i.fas.fa-cog(style="color:#2C78DC")
+                  p.mb-0 La normativa de que toda estructura de costos fijos sea de fácil vigilancia en cuanto a su valor monetario.
+                li 
+                  i.fas.fa-cog(style="color:#2C78DC")
+                  p.mb-0 Debe responder a la capacidad de carga de unidades que la planeación monta en el proceso productivo.
+                li 
+                  i.fas.fa-cog(style="color:#2C78DC")
+                  p.mb-0 Su consecución debe estar a cargo de niveles administrativos y de planificación.
+                li 
+                  i.fas.fa-cog(style="color:#2C78DC")
+                  p.mb-0 Su inventario relacionado forma parte del plan maestro de la producción.
+                li   
+                  i.fas.fa-cog(style="color:#2C78DC")
+                  p.mb-0 Deben tener ruta crítica de adquisición identificada.
+                li
+                  i.fas.fa-cog(style="color:#2C78DC")
+                  p.mb-0 Siempre realizar planes de trazabilidad permanente.
+      .col-sm-4.col-lg-6.mb-5
+        .tarjeta--boton2.bg8.text-black.p-4
+          .row.justify-content-center.mb-3
+            .col-9
+              figure
+                img(src='@/assets/curso/tema1/img26.png', alt='Texto que describa la imagen')
+            .col-12.bg11.p-4
+              h4.text-center Costos variables
+              ul.lista-ul
+                li 
+                  i.fas.fa-cog(style="color:#2C78DC")
+                  p.mb-0 La normativa de que toda estructura de costos variable sea de fácil vigilancia en cuanto a su valor monetario.
+                li 
+                  i.fas.fa-cog(style="color:#2C78DC")
+                  p.mb-0 La variabilidad del costo monetario debe ser mínima.
+                li 
+                  i.fas.fa-cog(style="color:#2C78DC")
+                  p.mb-0 Su inventario relacionado forma parte del plan maestro de la producción.
+                li 
+                  i.fas.fa-cog(style="color:#2C78DC")
+                  p.mb-0 Deben tener una ruta crítica de adquisición identificada.
+                li 
+                  i.fas.fa-cog(style="color:#2C78DC")
+                  p.mb-0 Siempre realizar planes de trazabilidad permanente.
     .row.mb-5.align-items-center
       .col-lg-4.bg1.p-3
-        h3.text-white.text-center.mb-0 Sistemas de inventarios 
-    p Un inventario representa la existencia de bienes muebles e inmuebles que tiene la empresa para comerciar con ellos, comparándolos y vendiéndolos tal cual o procesándolos primero antes de venderlos, en un período económico determinado. El sistema de inventarios permite registrar la cantidad de mercancía existente en una empresa y así mismo determinar el costo de los productos vendidos. Existen varios tipos de sistemas de inventarios, entre ellos se encuentran:
-    .tarjeta.tarjeta--azul1.p-4.mb-5
-      SlyderA(tipo="b")(data-aos="fade-right")
+        h3.text-white.text-center.mb-0 Costos por órdenes de producción.
+    p.mb-5 Una orden de producción registra los indicadores de los datos promedio de las cargas de los materiales e insumos acumulativos para el ensamble de una orden de fabricación, lo que facilita conocer el valor monetario de cada encargo u orden especial.
+    .row.align-items-center.mb-5
+      .col-lg-5
+        figure
+          img.mb-5(src='@/assets/curso/tema1/img38.png')(data-aos="fade-left")
+      .col-lg-7(data-aos="fade-right")
+        p.p-3.bg2 Planear producción por órdenes de fabricación es apropiado aun cuando la manufactura consiste en compromisos o procesos logísticos específicos y si los bienes son uniformes y el patrón de producción es estándar, en iguales circunstancias se utiliza cuando el tiempo de fabricación es relativamente largo y cuando el costo de venta final depende del costo de la producción. 
+        p.mb-5 La mayor parte de los gastos indirectos de fabricación están dentro de la última categoría, aunque algunos, como los son colocar a punto las máquinas, no se estiman en ocasiones para efectos de costos de ingeniería, se sobrealimentan en forma irregular a las actividades relevantes del proceso por lo que se convierten en costos ocultos; por ello hay que tener en cuenta lo siguiente:
+    TabsC.color-acento-contenido.mb-5
+      .py-3.py-md-4(titulo="Registrar datos en las órdenes de trabajo y/o hojas de costos")
         .row.align-items-center.justify-content-center
-          .col-lg-5.mb-4.mb-lg-0.ps-5
-            p #[b El sistema de inventario perpetuo o permanente:]
-            p En el sistema de inventario perpetuo, el negocio mantiene un registro continuo para cada artículo del inventario. Estos registros muestran el inventario disponible todo el tiempo y son útiles para preparar los estados financieros mensuales, trimestral o provisionalmente. Este sistema le permite al negocio determinar el costo del inventario final y el costo de las mercancías vendidas directamente de las cuentas contables, sin tener que hacer conteo físico del inventario.
-          .col-lg-7.ps-4
+          .col-lg-8.mb-4.mb-lg-0
+            p La gran mayoría de líderes de proceso deben tener claro que cada actividad no tiene un ritmo constante y se aplican estrategias de planificación cuidadosas para obtener el máximo provecho de los recursos: humanos, maquinaria y materias primas e insumos. El uso relevante del plan maestro de producción direcciona la ruta de trabajo; las órdenes de trabajo y/o hojas de costos se convierten en la base para establecer comunicación directa con los responsables de los procesos logísticos. 
+            p.p-3.bg5 La orden de producción personaliza e interpreta instrucciones para la industria fabril y de manufactura, con respecto a las especificaciones del producto, el período de tiempo para la fabricación, recorrido de la producción, máquinas a utilizar, entre otros.
+            p La orden de producción abrevia de tal manera y en forma ordenada y detallada los ítems de los componentes demandados por cada producto o servicio. La información para su elaboración se obtiene de:
+            ul.lista-ul
+              li 
+                i.fas.fa-cog(style="color:#F14141")
+                p.mb-0 Listado de materiales y sus consumos. 
+              li 
+                i.fas.fa-cog(style="color:#F14141")
+                p.mb-0 Fichas de estándares de tiempo.
+              li 
+                i.fas.fa-cog(style="color:#F14141")
+                p.mb-0 Valor de gastos indirectos de fabricación.
+            p Los materiales insumos y recurso humano directo se cargan a cada orden fabricación conforme a la identificación de las requisiciones del cliente y de las cartulinas de tiempos; en tanto que los costos indirectos se aplican en función a las bases de distribución. La hoja de costos de ensamble se vuelve una ayuda permanente para personalizar los datos que atañen al proceso. 
+          .col-lg-4
             figure
-              img(src='@/assets/curso/tema1/img77.png')
-        .row.align-items-center
-          .col-lg-5.mb-4.mb-lg-0.ps-5
-            p #[b El sistema de inventario periódico:]
-            p En el sistema de inventario periódico o conocido también como sistema físico, la empresa no mantiene un registro continuo del inventario disponible; más bien al final del periodo, la empresa hace un conteo físico del inventario disponible y aplica los costos unitarios para determinar el costo del inventario final. Esta cifra del conteo físico del inventario es la que aparece en el Balance General. Se utiliza también para calcular el costo de las mercancías vendidas. 
-          .col-lg-7.ps-4
-            figure
-              img(src='@/assets/curso/tema1/img78.png')
-        .row.align-items-center
-          .col-lg-5.mb-4.mb-lg-0.ps-5
-            p-3 El sistema periódico es generalmente utilizado para contabilizar los artículos del inventario que tienen un costo unitario bajo. Los artículos de bajo costo pueden no ser lo suficientemente valiosos para garantizar el costo de llevar un registro al día del inventario disponible. 
-            p Para usar este sistema con efectividad, el propietario debe tener la capacidad de controlar el inventario mediante la inspección visual. Por ejemplo, cuando un cliente le solicita ciertas cantidades disponibles, el dueño o administrador debe ser capaz de visualizar las mercancías existentes.
-          .col-lg-7.ps-4
-            figure
-              img(src='@/assets/curso/tema1/img79.png')
-    .row.mb-5.justify-content-center
-      .col-10.bg3.p-4
+              img(src='@/assets/curso/tema1/img39.png', style="width:350px").m-auto
+      .py-3.py-md-4(titulo="Incluir el proceso de la contabilidad de los costos de fabricación.")
         .row.align-items-center.justify-content-center
-          .col-lg-11
-            p.mb-0 Para ampliar estos conceptos sobre los inventarios en una empresa, consultar en el material complementario el sitio web de Gestiopolis la publicación de #[span.txt-color2 Rebeca Martinez (2001) sobre “El inventario”].
-          .col-lg-1.mb-3
+          p Para este proceso se deben tener en cuenta algunos términos y acciones:
+          .col-lg-4
             figure
-              img(src='@/assets/curso/tema1/img80.svg').mx-auto(data-aos="fade-right")
+              img(src='@/assets/curso/tema1/img40.png', style="width:350px").m-auto
+          .col-lg-8.mb-4.mb-lg-0
+            ul.lista-ul
+              li 
+                i.fas.fa-cog(style="color:#F14141")
+                p.mb-0 #[b Describir el producto]: bien o servicio que se manufactura o que se presta en la factoría. 
+              li 
+                i.fas.fa-cog(style="color:#F14141")
+                p.mb-0 #[b Proceso de manufactura y/o ensamble]: se combinan varios subensambles.
+              li 
+                i.fas.fa-cog(style="color:#F14141")
+                p.mb-0 #[b Protocolo de subensamble]: parte activa de un ensamble
+              li 
+                i.fas.fa-cog(style="color:#F14141")
+                p.mb-0 #[b Componentes, insumos, partes]: se adelanta su producción para integrarlos a otros procesos.
+              li 
+                i.fas.fa-cog(style="color:#F14141")
+                p.mb-0 #[b Piezas]: componentes semielaborados o sin procesar 
+              li 
+                i.fas.fa-cog(style="color:#F14141")
+                p.mb-0 #[b Órdenes de mejoras]: infraestructura digital y procedimental para reordenar procesos y procedimientos.
     .row.mb-2.align-items-center
       .col-lg-3.bg1.p-3.mb-5
-        h3.text-white.text-center.mb-0 Control de inventario en proceso
+        h3.text-white.text-center.mb-0 Costos por procesos
+    .bg10             
+      .row.align-items-center.mb-5
+        .col-lg-8(data-aos="fade-right")
+          p Un proceso es una organización o sección de la empresa en la cual se realiza un trabajo específico, técnico y repetitivo. Se emplean términos como: secciones, centros de liderazgo, manual de funciones y operaciones, centros de costos entre otros. Los sistemas de producción pueden ser flexibles versátiles y emplearse para el ensamble de muchas referencias. De igual manera, cualquier bien puede pasar por secciones distintas o varias áreas. 
+          p El plan maestro de producción depende de las condiciones y técnicas del diseño especializadas como son:
+          ul.lista-ul
+            li 
+              i.fas.fa-cog(style="color:#F14141")
+              p.mb-0 Emplear en factorías procesos continuos y de línea en las que se transforman materias primas en productos de alto valor agregado. 
+            li 
+              i.fas.fa-cog(style="color:#F14141")
+              p.mb-0 En un excelente plan maestro de producción, los sistemas arrojan productos de línea en altas cantidades, donde se consume un número significativo de materiales e insumos, elevando el empleo de recurso humano calificado, generando reactivación económica en el sector y productividad para la empresa.
+            li 
+              i.fas.fa-cog(style="color:#F14141")
+              p.mb-0 Obtener el valor del costo unitario se hace mediante un ponderado entre la sumatoria de los costos gastados por las dependencias o secciones y/o procesos en período específicos de tiempo, y las unidades producidas. 
+            li 
+              i.fas.fa-cog(style="color:#F14141")
+              p.mb-0 Sistema de fácil comprensión, simple, seguro y económico, porque todas las actividades son grupales. 
+        .col-lg-4
+          figure
+            img.mb-5(src='@/assets/curso/tema1/img41.png')(data-aos="fade-left")
+    .row.mb-2.align-items-center
+      .col-lg-7.bg1.p-3.mb-5
+        h3.text-white.text-center.mb-0 Inventario de producto en proceso y los costos de producción
     .row.mb-5.justify-content-center.align-items-center(data-aos="fade-left")
-      .col-lg-7
-        p Los inventarios entonces necesitan ser clasificados debido a su importancia ya que para el administrador la información que suministran tiene que ver con su manejo y esto requiere uso de recursos, personal y dinero. La limitante entonces está en que los recursos son limitados y muchas veces se tiene gran número de inventarios.
-        p.p-3.bg5 Si bien una persona puede ser remplazada en el proceso, no pasa lo mismo con la no disponibilidad de una máquina, puesto que esta situación puede acarrear caos al proceso y baja en el índice de productividad de la compañía. 
-        p Los inventarios son importantes para los fabricantes en general, y varían ampliamente entre los distintos grupos de industrias. La composición de esta parte del activo es una gran variedad de artículos, y es por eso que se han clasificado de acuerdo a su utilización en los siguientes tipos: 
-      .col-lg-5.mb-4.mb-lg-0
-        img(src='@/assets/curso/tema1/img81.svg').m-auto
-    .row.align-items-center.mb-5
+      .col-lg-4.mb-4.mb-lg-0
+        img(src='@/assets/curso/tema1/img42.svg').m-auto
+      .col-lg-8
+        p Establecer el costo del inventario de productos de manufactura en proceso, se familiariza con el valor administrativo y económico del proceso, que este no acaba cuando se ubica en un estante y no finaliza cuando pasa a otra área u otro proceso de producción. 
+        p.p-3.bg5 Norma de oro, monetizar y calcular valores de los distintos inventarios en las diferentes áreas y sumarse juntos para constituir el inventario total de la empresa, determina que los altos costos administrativos de trabajos en proceso, en ocasiones suelen llevarse toda la utilidad de la compañía relevante en la lectura del balance general.
+    .row.mb-2.align-items-center
+      .col-lg-4.bg1.p-3.mb-5
+        h3.text-white.text-center.mb-0 Costos predeterminados
+    .row.justify-content-center(data-aos="fade-left").mb-5
+      .col-lg-10.mb-4
+        .tarjeta-avatar-b.mb-0.h-100
+          .tarjeta-avatar-b__img
+            img.img-t(src='@/assets/curso/tema1/img43.svg' alt='AvatarTop').mx-auto
+          .tarjeta.tarjeta--azul
+            .p-4
+              p.mt-4 Los costos predeterminados se utilizan en corporaciones que ejecutan actividades personalizadas en especial, por encargo de compradores; guardar inventario para rotarlo en ocasiones especiales y operar en esta circunstancia da ventajas competitivas en las que, las empresas salvaguardan las inversiones que realizan. 
+      .col-lg-10.mb-4
+        .tarjeta-avatar-b.mb-0.h-100
+          .tarjeta-avatar-b__img
+            img.img-t(src='@/assets/curso/tema1/img44.svg' alt='AvatarTop').mx-auto
+          .tarjeta.tarjeta--azul
+            .p-4
+              p.mt-4 En su totalidad los costos predeterminados de manufactura, se establecen como estrategia corporativa, se posicionan integrando una serie de salvaguardas para que los procesos productivos no se estacionen y no causan bajas en el inventario, no se emplee más del tiempo estimado y la entrega al cliente se conserve con los parámetros pactados. 
+      .col-lg-10.mb-4
+        .tarjeta-avatar-b.mb-0.h-100
+          .tarjeta-avatar-b__img
+            img.img-t(src='@/assets/curso/tema1/img45.svg' alt='AvatarTop').mx-auto
+          .tarjeta.tarjeta--azul
+            .p-4
+              p.mt-4 Integrando la lista de los costos predeterminados se encuentran los costos de mantenimiento; precisamente predeterminar estos comportamientos, son esencialmente ventajosos para la corporación, puesto que anticiparse a problemas logísticos garantiza el buen funcionamiento de las diferentes secciones de la empresa.
+    Separador
+    #t_1_6
+    .titulo-segundo.color-acento-contenido(data-aos="fade-right")
+      h2 1.6 Cálculo de valor minuto en procesos de manufactura
+    .row.justify-content-center.align-items-center(data-aos="fade-left").mb-5
+      .col-lg-2.mb-4
+        img.img-t(src='@/assets/curso/tema1/img46.svg' alt='AvatarTop').mx-auto
+      .col-lg-10
+        p Entender la composición de los costos del valor minuto y su importancia en las actividades económicas de la empresa, es conocer el significado de los costos logísticos y su comportamiento en la cadena de suministro. Para entender el concepto de valor minuto es necesario tener presente la idea de costos generales de producción, estos integran costos y gastos de la compañía.
+        p Definimos el valor minuto como la variable que obtenemos del resultado del aporte del recurso de mano de obra directa y se calcula de la siguiente manera: 
+    .row.mb-2.align-items-center
+      .col-lg-4.bg1.p-3.mb-5
+        h3.text-white.text-center.mb-0 ¿Cómo se calcula el valor minuto?
+    .row.mb-5
       .col-lg-12
-        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-          .row(titulo="Inventario de materias primas")
-            .col-12
-              .row.align-items-center
-                .col-md-10.align-items-center
-                  p.ps-5 Lo conforman todos los materiales con los que se elaboran los productos, pero que todavía no han recibido procesamiento. La materia prima, es aquel o aquellos artículos sometidos a un proceso de fabricación que al final se convertirá en un producto terminado.
-                  p.ps-5 En toda actividad industrial concurren una variedad de artículos (materias primas) y materiales, los que serán sometidos a un proceso para obtener al final un artículo terminado o acabado. A los materiales que intervienen en mayor grado en la producción se les considera "materia prima", ya que son utilizadas en cantidades lo suficientemente importantes para lograr el producto acabado.
-                .col-lg-2.col-md-6.col-12.p-0
-                  figure
-                    img(src='@/assets/curso/tema1/img82.svg', alt='Texto que describa la imagen').mx-auto
-          .row(titulo="Inventario de productos en proceso")
-            .col-12
-                .row.align-items-center
-                  .col-md-10.align-items-center
-                    p.ps-5 Lo integran todos aquellos bienes adquiridos por las empresas manufactureras o industriales, los cuales se encuentran en proceso de manufactura. Su cuantificación se hace por la cantidad de materiales, mano de obra y gastos de fabricación, aplicables a la fecha de cierre.
-                    p.ps-5 El inventario de productos en proceso consiste en todos los artículos o elementos que se utilizan en el actual proceso de producción. Es decir, son productos parcialmente terminados que se encuentran en un grado intermedio de producción y a los cuales se le aplicó la labor directa y gastos indirectos inherentes al proceso de producción en un momento determinado. Una de las características del Inventario de producción en proceso es que va aumentando el valor a medida que es transformado de materia prima en el producto terminado como consecuencia del proceso de producción. 
-                  .col-lg-2.col-md-6.col-12.p-0
-                    figure
-                      img(src='@/assets/curso/tema1/img83.svg').mx-auto
-          .row(titulo="Inventario de productos terminados")
-            .col-12
-              .row.align-items-center
-                .col-md-10.align-items-center
-                  p.ps-5 Son todos aquellos bienes adquiridos por las empresas manufactureras o industriales, los cuales son transformados para ser vendidos como productos elaborados, comprenden estos, los artículos transferidos por el departamento de producción al almacén de productos terminados por haber alcanzado su grado de terminación total y que a la hora de la toma física de inventario se encuentren aún en los almacenes, es decir, los que todavía no han sido vendidos. El nivel de inventario de productos terminados va a depender directamente de las ventas, su nivel está dado por la demanda. 
-                  p.ps-5 
-                .col-lg-2.col-md-6.col-12.p-0
-                  figure
-                    img(src='@/assets/curso/tema1/img84.svg').mx-auto
-          .row(titulo="Inventario de materiales y suministros")
-            .col-12
-              .row.align-items-center
-                .col-md-10.align-items-center
-                  p.ps-5 Son los materiales con los que se elaboran los productos, pero que no pueden ser cuantificados de una manera exacta en el inventario de materiales y suministros se incluye: 
-                  p.ps-5 -	Materias primas secundarias, (Pintura, lija, clavos, lubricantes, etc.). Sus especificaciones varían según el tipo de industria, un ejemplo para la industria cervecera es sales para tratamiento de agua. 
-                  p.ps-5 -	Artículos de consumo destinados para ser usados en la operación de la industria; dentro de estos artículos de consumo los más importantes son los destinados a las operaciones y están formados por los combustibles y lubricantes, estos en la industria tienen gran significación. 
-                  p.ps-5 -	Los artículos y materiales de reparación y mantenimiento de las maquinarias y aparatos operativos. Estos   artículos de reparación por su gran volumen, necesitan ser controlados adecuadamente y la existencia de estos varía en relación a sus necesidades. 
-                .col-lg-2.col-md-6.col-12.p-0
-                  figure
-                    img(src='@/assets/curso/tema1/img85.svg').mx-auto
-          .row(titulo="Inventario de mercancías")
-            .col-12
-              .row.align-items-center
-                .col-md-10.align-items-center
-                  p.ps-5 Constituye la existencia, a precio de costo, de los artículos comprados o producidos por la empresa, para su comercialización. Se incluyen en el inventario todas las mercancías de propiedad de la empresa que se encuentran en el almacén, bodegas, en tránsito (cuando la compañía ha comprado fuera del país) o entregadas en consignación, se excluyen las que no son propiedad de la empresa pero que se han recibido en consignación o están vendidas y aún no se han llevado al cliente.
-                  p.ps-5 En las empresas comerciales, cuyo objeto es la compra – venta, esta cuenta (inventarios) es lo que genera utilidades, por lo que los inventarios deben ser valorados y controlados técnicamente. 
-                .col-lg-2.col-md-6.col-12.p-0
-                  figure
-                    img(src='@/assets/curso/tema1/img85.svg').mx-auto
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           
         
 

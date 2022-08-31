@@ -48,13 +48,13 @@
     content: ''
     position: absolute
     margin: 0 0rem
-    top: -2rem
-    left: -280px
-    width: calc( 100% + 11rem)
-    height: calc( 100% + 5rem)
-    background-image: url("../assets/curso/tema1/img6.png") 
-    background-repeat: no-repeat
-    background-size: contain
+    top: 0
+    left: 40px
+    width: calc( 100% + -2rem)
+    height: 100%
+    background: linear-gradient(96deg, rgba(255,255,255,1) 14%, rgba(217,242,246,1) 100%)
+    border-end-start-radius: 30px
+   
     @media (max-width: $bp-max-md)
       background-size: cover
       left: -8px
@@ -76,7 +76,7 @@
     top: +5rem
     left: -49px
     width: calc( 100% + 6rem)
-    height: calc( 100% + -3rem)
+    height: calc( 100% + -6rem)
     background-image: url("../assets/curso/tema1/img19.svg") 
     background-repeat: no-repeat
     background-size: cover
@@ -89,12 +89,13 @@
   background-color: #DEE8FE
   border-end-start-radius: 40px
   border-end-end-radius: 40px
-  height: 268px
-  width: 395px
-  max-width: 332px
+  height: 374px
+  width: 630px
+  max-width: 510px
   @media (max-width: $bp-max-md)
     width: 395px
     max-width: 366px
+    height: 456px
 
 .bg10
   position: relative
@@ -106,7 +107,7 @@
     margin: 0 0rem
     top: -1rem
     left: -20px
-    width: calc( 100% + -1rem)
+    width: calc( 100% + 8rem)
     height: calc( 100% + 1rem)
     background-image: url("../assets/curso/tema1/img19.png") 
     background-repeat: no-repeat
@@ -116,13 +117,13 @@
   background-color: #DEE8FE
   border-end-start-radius: 40px
   border-end-end-radius: 40px
-  width: 395px
-  max-width: 332px
+  height: 374px
+  width: 630px
+  max-width: 510px
   @media (max-width: $bp-max-md)
     width: 395px
     max-width: 366px
-  
-  background-size: cover
+    height: 456px
   
 .bg12
   background-color: #fff
@@ -133,72 +134,39 @@
   background-repeat: no-repeat
   background-size: cover
 
-.bg14
-  background-image: url("../assets/curso/tema1/img56.png") 
-  background-repeat: no-repeat
-  background-size: cover
-
 .bg15
   background-color: #D9F2F6
   border-radius: 20px
 
 .bg16
-  position: relative
-  p, .row, p
-    position: relative
-  &::before
-    content: ''
-    position: absolute
-    margin: 0 0rem
-    top: +5rem
-    left: -49px
-    width: calc( 100% + 6rem)
-    height: calc( 100% - 5rem)
-    background-image: url("../assets/curso/tema1/img59.png") 
-    background-repeat: no-repeat
-    background-size: cover
+  background-color: #DEE8FE
+  border-end-start-radius: 40px
+  border-end-end-radius: 40px
+  height: 257px
+  width: 332px
+  max-width: 410px
+  @media (max-width: $bp-max-md)
+    width: 395px
+    max-width: 366px
+    height: 256px
 
 .bg17
-  background-image: url("../assets/curso/tema1/img63.svg") 
-  background-repeat: no-repeat
-  background-size: cover
+  background-color: #DEE8FE
+  border-end-start-radius: 40px
+  border-end-end-radius: 40px
+  height: 374px
+  width: 630px
+  max-width: 510px
+  @media (max-width: $bp-max-md)
+    width: 395px
+    max-width: 366px
+    height: 456px
 
-.bg18
-  background-image: url("../assets/curso/tema1/img65.png") 
-  background-repeat: no-repeat
-  background-size: cover
 
-.bg19
-  background-image: url("../assets/curso/tema1/img66.png") 
-  background-repeat: no-repeat
-  background-size: cover
 
-.bg20
-  position: relative
-  .row
-    position: relative
-  &::before
-    content: ''
-    position: absolute
-    margin: 0 0rem
-    top: -1rem
-    left: -280px
-    width: calc( 100% + 24rem)
-    height: calc( 100% + -7rem)
-    background-image: url("../assets/curso/tema2/img23.png") 
-    background-repeat: no-repeat
-    background-size: contain
-    @media (max-width: $bp-max-md)
-      background-size: cover
-      left: -8px
-      width: calc( 100% + 1rem)
-
-.bg22
-  background-image: url("../assets/curso/tema1/img75.svg") 
-  background-repeat: no-repeat
-  background-size: cover
+.bg21
+  background-color:#DAE3F6
   
-    
 .dual-txt-deco
   position: relative
   &::after
@@ -238,13 +206,6 @@
 .bg_color1:hover
   background-color: #A6E0E9
 
-.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
-  background-color: #E9EEF9
-  span
-    color: #12263F
- 
-.linea-tiempo-d__item--selected .tarjeta--gris
-  background-color: #E9EEF9 !important
 
 .img320
   max-width: 208px 
@@ -254,8 +215,12 @@
   width: 505px !important
 
 .tarjeta--azul 
-  background-color: #D9F2F6
-  border-radius: 17px
+  background-color: #E9F4F9
+  border-radius: 10px
+
+.tarjeta--azul1
+  background-color: #DAE3F6
+  border-radius: 10px
 
 .img-t
   width: auto
@@ -277,11 +242,8 @@
 .tarjeta--boton1
   height: 520px
 
-.tarjeta--azul1
-  background-color: #FFF
-  background-image: url(../assets/curso/tema1/img76.png)
-  background-repeat: no-repeat
-  background-size: cover
+.tarjeta--boton2
+  height: 650px
 
 .slyder-a__tipo-b .slyder-a__btn--atrs
   background-color: #F29627
@@ -315,8 +277,13 @@
   width: 100%
   height: 250px
 
+.tarjeta.color-primario5
+  background-color: #E9F4F9
+  width: 100%
+  height: 315px
+
 .hr:not([size]) 
- height: 2px
+ height: 3px
  background: #F14141
 
 .tarjeta--tabla 
@@ -324,5 +291,21 @@
 .tarjeta--tabla:nth-child(even) 
   background-color:#D6EBF5
 
+.borde
+  border-top: 3px solid #F14141
+  border-bottom: 3px solid #F14141 
+  &_2
+    border-top: 3px solid #F14141
 
+.fa-chevron-left:before 
+  color: #707BA3
+
+.fa-chevron-right:before 
+  color: #707BA3
+
+.tarjeta-avatar > img 
+  left: 50%
+  top: 15px
+  width: 135px
+    
 
