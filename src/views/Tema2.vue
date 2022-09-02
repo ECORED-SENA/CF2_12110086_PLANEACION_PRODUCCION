@@ -10,7 +10,9 @@
     .row.mb-4.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-7
         p Organizar los costos generales de producción o de la prestación de un servicio, mediante la construcción de un presupuesto resulta relevante para ordenar financieramente la empresa. El presupuesto permite planificar estrategias, desarrollar habilidades, utilizar eficientemente los recursos y presupuestar de manera efectiva la empresa, aumentando la posibilidad de lograr indicadores matemáticos trazados, proyectar sostenibilidad futura y hablar de competitividad en el sector productivo.
+        p La aplicación y versatilidad de la construcción de un presupuesto está dada en:
         .bg5.p-3.mb-5.mb-lg-0
+         
           ul.lista-ul
             li 
               i.fas.fa-cog(style="color:#F14141")
@@ -20,11 +22,13 @@
               | La elaboración del paso a paso en el montaje de proyectos.
             li 
               i.fas.fa-cog(style="color:#F14141")
-              | Elaborar proyectos de información documentada para implementar estrategias de mejora continua en áreas o departamentos.
+              | Elaborar proyectos de información documentada para implementar estrategias de mejora continua en áreas o departamentos. 
       .col-lg-5.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/tema2/img1.png').m-auto(data-aos="fade-right")
     .row.justify-content-center.align-items-center.mb-4
+      .col-lg-12
+        p Esto quiere decir que un presupuesto es adelantarse o anticiparse en establecer el costo total de un proyecto; es el pre, el antes o suponer con anticipación.   
       .col-md-5.col-12.px-0
         figure
           img(src='@/assets/curso/tema2/img2.png')(data-aos="fade-left")
@@ -36,7 +40,7 @@
       h2 2.1 Conceptos generales de los presupuestos 
     .row.mb-4.align-items-center(data-aos="fade-left")
       .col-lg-7
-        p De acuerdo con <em>Shapiro</em>Shapiro (2001), cuando se está desarrollando un presupuesto no se debe improvisar a medida que se realiza. Al igual que en todo buen ejercicio de administración de una organización, un buen ejercicio presupuestario implica claridad de propósito, planificación detallada y pensamiento considerable. 
+        p De acuerdo con <em>Shapiro</em> (2001), cuando se está desarrollando un presupuesto no se debe improvisar a medida que se realiza. Al igual que en todo buen ejercicio de administración de una organización, un buen ejercicio presupuestario implica claridad de propósito, planificación detallada y pensamiento considerable. 
         p.bg5.p-3  Estas son algunas de las preguntas para responder a lo largo de las distintas fases de preparación presupuestaria y el desarrollo real del presupuesto:
         p ¿Se pudo haber gastado menos el año pasado y aún haber conseguido los mismos o mejores resultados?
         p ¿Se ha despilfarrado dinero en el pasado? Si fuera así, ¿se puede evitar en el futuro?

@@ -40,7 +40,7 @@
         img(src='@/assets/curso/tema1/img4.svg' alt='AvatarTop')
         .tarjeta.color-primario4
           .p-4
-            p.mb-0 Utilizar eficazmente software especializado para la elaboración de plan de costeo de la producción.
+            p.mb-0 Utilizar eficazmente <em>software</em> especializado para la elaboración de plan de costeo de la producción.
       .tarjeta-avatar
         img(src='@/assets/curso/tema1/img5.svg' alt='AvatarTop')
         .tarjeta.color-primario4
@@ -169,7 +169,7 @@
       .row.justify-content-center.align-items-center
         .row.bg2.justify-content-center.align-items-center.borde
           .col-md-9
-            p El costo forma parte integral del resultado obtenido, terminado o intangible,y es factible observarlo; en su defecto, el gasto es imperceptible, por lo tanto, supuestamente no es relevante para integrar el precio de venta de ambos.
+            p El costo forma parte integral del resultado obtenido, terminado o intangible, y es factible observarlo; en su defecto, el gasto es imperceptible, por lo tanto, supuestamente no es relevante para integrar el precio de venta de ambos.
           .col-md-2.col-12.p-3
             figure
               img(src='@/assets/curso/tema1/img17.svg')
@@ -177,7 +177,7 @@
     #t_1_4
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.4 Elementos del costo
-    p Los costos generales de la producción, como se mencionó antes, se definen como una transformación directa de un capital que un emprendedor natural o una corporación, efectúa con el objetivo de realizar montajes de infraestructuras operacionales digitales y laborales, para la ofrecer un bien intangible o desarrollar un proceso de manufactura fabril, mercadear bienes y/o brindar servicios digitales y/o logísticos.
+    p Los costos generales de la producción, como se mencionó antes, se definen como una transformación directa de un capital que un emprendedor natural o una corporación, efectúa con el objetivo de realizar montajes de infraestructuras operacionales digitales y laborales, para ofrecer un bien intangible o desarrollar un proceso de manufactura fabril, mercadear bienes y/o brindar servicios digitales y/o logísticos.
     p.mb-5 Con relación a los costos tener presente que:
     .bg10             
       .row.align-items-center.mb-5
@@ -261,12 +261,15 @@
             p.mb-0 Posee el conocimiento para responder administrativamente por el proceso, por esto es justificable. 
           li 
             i.fas.fa-cog(style="color:#F14141")
+            p.mb-0 Agrega alto valor administrativo a la logística interna. 
+          li 
+            i.fas.fa-cog(style="color:#F14141")
             p.mb-0 Crea la trazabilidad y el control del proceso logístico interno, mano derecha de la gerencia.
           li 
             i.fas.fa-cog(style="color:#F14141")
             p.mb-0 Integra todos los elementos relevantes para entregar en óptimas condiciones de calidad y bajo costo, el producto o servicio.
           p.p-3.bg5 En conclusión, es de alta relevancia establecer que el objetivo de clasificar de forma detallada los costos, es la forma de elaborar una estructura estandarizada y establecer los límites que faciliten a las áreas de producción y logística de servicios, asignar sin equivocación, valores precisos para calcular el precio de venta de bienes y servicios.
-    p.mb-5 Estandarizar el precio de venta de un servicio constituye toda una logística intangible que puede atribuirse al comportamiento que el recurso humano tiene al realizar la actividad. Los desembolsos para el desempeño del área de ingeniería industrial, áreas de mantenimiento y sección de compras, suelen ser difíciles de determinar, puesto que el oficio de estas secciones de servicios es la de proveer asistencia a las demás áreas logísticas; los costos de estas secciones de servicios deben ponderarse y cargarse a la estructura jerárquica de la empresa, empleando bases y soportes técnicos, utilizando software especializados. Los siguientes son los aspectos que hacen parte de los elementos del costo.
+    p.mb-5 Estandarizar el precio de venta de un servicio constituye toda una logística intangible que puede atribuirse al comportamiento que el recurso humano tiene al realizar la actividad. Los desembolsos para el desempeño del área de ingeniería industrial, áreas de mantenimiento y sección de compras, suelen ser difíciles de determinar, puesto que el oficio de estas secciones de servicios es la de proveer asistencia a las demás áreas logísticas; los costos de estas secciones de servicios deben ponderarse y cargarse a la estructura jerárquica de la empresa, empleando bases y soportes técnicos, utilizando <em>software</em> especializados. Los siguientes son los aspectos que hacen parte de los elementos del costo.
     .row.mb-2.align-items-center
       .col-lg-7.bg1.p-3.mb-5
         h3.text-white.text-center.mb-0 Costos generales de manufactura, costos fijos y costos variables
@@ -395,7 +398,7 @@
 
           tr
             td(colspan="3") Estructura según los departamentos.
-            td(colspan="9") ●	Etapas de producción; entre otros: sección de corte, producción y terminación. <br> ●	Se catalogan Se catalogan como productivos: maniobran sobre el bien en todas las como servicios: se usan como soporte administrativo para bienes y logística de ensamble; entre otros: secciones de soporte técnico, sistemas de acompañamiento en seguridad privada.
+            td(colspan="9") ● Se catalogan como productivos: maniobran sobre el bien en todas las etapas de producción; entre otros: sección de corte, producción y terminación.  <br> ● Se catalogan como servicios: se usan como soporte administrativo para bienes y logística de ensamble; entre otros: secciones de soporte técnico, sistemas de acompañamiento en seguridad privada.
           tr
             td(colspan="3") Estructura de acuerdo a su aplicación.
             td(colspan="9") ●	Se catalogan sobre aplicados. <br> ●	Se catalogan sub aplicados.
@@ -443,82 +446,80 @@
           tr
             td Costos administrativos.
           tr(style="background-color: #F6F6F6")
-            td Estructuras de costos acordes al procedimiento.
+            td(rowspan="3") Estructuras de costos acordes al procedimiento.
             td Estructura de costos de manufactura y/o producción: intervienen cuando modificamos materiales e insumos, creamos bienes de consumo, incurrimos en desembolsos de capital, se presta un servicio o se relaciona la materia prima en productos terminados: costo de los materiales integrados al producto, mano de obra y gastos de fabricación indirectos que intervienen en la transformación del producto (con excepción de la materia prima y la mano de obra directa).
-            td 
-          tr
             td(rowspan="3")
+          tr(style="background-color: #F6F6F6")
             td Estructura de costos logísticos de distribución: incurren en esta etapa costos de transporte desde el lugar de producción hasta puntos de venta
-            td(rowspan="3") 
-          tr
+          tr(style="background-color: #F6F6F6")
             td Estructura de costos logísticos de administración: Se crean en las secciones administrativas de las corporaciones.
           tr
+            td(rowspan="5") Estructuras de costos acordes a la actividad, con respecto a su variabilidad.
             td Estructura de costos variables: directamente relacionados con unidades específicas, o por encargo, o pedido. En el lenguaje común de una planta de manufactura se conocen como fijos.
-          tr(style="background-color: #F6F6F6")
-            td(rowspan="4") Estructuras de costos acordes a la actividad, con respecto a su variabilidad.
-            td Estructura de costos semivariables: se conocen como fijos; en otros momentos de producción poseen una variabilidad bastante marcada. Comúnmente se refiere al personal indirecto o el gasto de servicios públicos, entre otros.
-            td(rowspan="4") 
-          tr(style="background-color: #F6F6F6")
-            td Estructura de costos fijos: sistemas históricos y estructurales, se emplean en tiempo presente a corto y mediano periodo de tiempo.
-          tr(style="background-color: #F6F6F6")
-            td Estructura de costos fijos discrecionales: nómina de empleados y administrativos comúnmente.
-          tr(style="background-color: #F6F6F6")
-            td Estructura de costos fijos comprometidos: la depreciación de activos de la compañía siempre está presente.
+            td(rowspan="5") 
           tr
+            td Estructura de costos semivariables: se conocen como fijos; en otros momentos de producción poseen una variabilidad bastante marcada. Comúnmente se refiere al personal indirecto o el gasto de servicios públicos, entre otros.
+          tr
+            td Estructura de costos fijos: sistemas históricos y estructurales, se emplean en tiempo presente a corto y mediano periodo de tiempo.
+          tr
+            td Estructura de costos fijos discrecionales: nómina de empleados y administrativos comúnmente.
+          tr
+            td Estructura de costos fijos comprometidos: la depreciación de activos de la compañía siempre está presente.
+          tr(style="background-color: #F6F6F6")
             td(rowspan="5") Estructuras de costos acorde a la identificación específica del costo.
             td Estructuras de costos directos: muy conocidas en el cálculo estructural del costo, materias primas insumos y mano de obra.
             td(rowspan="2") Una estructura de costos definido como directos para un departamento, resulta que puede convertirse en una estructura de costos indirectos en otra área.
-          tr
+          tr(style="background-color: #F6F6F6")
             td Estructuras de costos indirectos: de carácter administrativo y logístico realmente participan activamente en el precio de venta del bien o servicio.
-          tr
+          tr(style="background-color: #F6F6F6")
             td Estructuras de costos según los antecedentes y doctrinas: se correlacionan con valores que las compañías emplean para preservar elementos particulares de proceso, componentes que requieren de cierta confidencialidad y esto encarece su valor económico.
             td(rowspan="3") Los sistemas estructurales de costos siempre estarán presentes como columna vertebral de los departamentos logísticos de producción de bienes y servicios, puesto que deben permanecer disponibles, emplearse en otras secciones del negocio, procedimientos, procesos, actividades y productos. El empleo de sistemas de costos indirectos involucra el empleo de una base histórica que señale de forma clara en que se usan, el costo indirecto si no se controla puede llegar a encarecer el bien o el servicio.
-          tr
-            td Estructuras de costos según históricos: ciclos de tiempo preestablecidos.
-          tr
-            td Estructuras de costos según elementos de tiempo, materiales e insumos predeterminados: se establecen por bases porcentuales estadísticas y se relacionan en presupuestos con antelación.
           tr(style="background-color: #F6F6F6")
+            td Estructuras de costos según históricos: ciclos de tiempo preestablecidos.
+          tr(style="background-color: #F6F6F6")
+            td Estructuras de costos según elementos de tiempo, materiales e insumos predeterminados: se establecen por bases porcentuales estadísticas y se relacionan en presupuestos con antelación.
+          tr
             td(rowspan="2") En concordancia con periodos de oferta y demanda según el tiempo.
             td Estructuras de costos según el período: los costos de materiales e insumos se correlacionan con periodos de tiempo en el transcurso del año dependiendo de oferta demanda del mercado, cosechas normalmente.
             td(rowspan="2") 
-          tr(style="background-color: #F6F6F6")
+          tr
             td Estructuras de costos según el producto: correlacionan estos costos por el tipo de venta del producto final, crédito o contado lo más común. 
-          tr
+          tr(style="background-color: #F6F6F6")
             td(rowspan="2") En concordancia con el grado de control
-            td Estructuras de costos controlables: materiales, materias primas e insumos bajo normativa de venta restringida por el gobierno.  demanda del mercado, cosechas normalmente.
+            td Estructuras de costos controlables: materiales, materias primas e insumos bajo normativa de venta restringida por el gobierno. 
             td(rowspan="4") La infraestructura de costos, realmente es un valor monetario que se desprende del precio de venta de un producto o servicio prestado, es el resultado de los eventos que acompañan abastecer la oferta y demanda del mercado, satisfacer requerimientos y suplir necesidades de la humanidad, crear abundancia de altos parámetros de calidad y reabastecer la corporación de ingresos económicos para extender en el tiempo los procesos.
-          tr
+          tr(style="background-color: #F6F6F6")
             td Estructuras de costos no controlables: dependen de la oferta y demanda del mercado con la exigencia por parte de proveedores de establecer con tiempo prudente los pedidos.
-          tr
+          tr(style="background-color: #F6F6F6")
             td(rowspan="2") En concordancia con periodos contables, según su registro y cómputo
             td Estructuras de costos con asignación contable: desembolsos restringidos al número de unidades a producir, por el monto oneroso. 
-          tr
-            td Estructuras de costos con carácter económico y técnico: calcula erogaciones para la compra de infraestructura tecnológica y digital con base en la posición económica de la compañía.
           tr(style="background-color: #F6F6F6")
+            td Estructuras de costos con carácter económico y técnico: calcula erogaciones para la compra de infraestructura tecnológica y digital con base en la posición económica de la compañía.
+          tr
             td(rowspan="9") Estructuras de costos en concordancia con la aplicación de estrategias que acompañan la toma de decisiones.
             td Estructuras de costos relevantes: la colocación en los procesos productivos de pedidos especiales abren esta clase de costos que con la expresión emergencia se dispone de inmediato de recursos para la consecución de los mismos. 
             td(rowspan="9") 
-          tr(style="background-color: #F6F6F6")
-            td Estructuras de costos irrelevantes: son adquiridos para dejarlos en inventario considerados como partícipes del ensamble de productos de línea en la empresa.
-          tr(style="background-color: #F6F6F6")
-            td Estructuras de costos desembolsables: aquellos cuyo costo se debe pagar sin ningún tipo de ventajas ni de tiempo ni arancelaria.
-          tr(style="background-color: #F6F6F6")
-            td Estructuras de costos de oportunidad: desembolsos realizados para adquirir inventarios que por subasta aparecen en el mercado a bajo costo.
-          tr(style="background-color: #F6F6F6")
-            td Estructuras de costos de acuerdo con los cambios originados por un aumento o disminución en la actividad, eventos de orden público, pandemias, entre otros.
-          tr(style="background-color: #F6F6F6")
-            td Estructuras de costos con diferenciales: se originan por cambios monetarios en el precio de adquisición, originados por inflación en los países.
-          tr(style="background-color: #F6F6F6")
-            td Estructuras de costos decrementales: disminución de la demanda del producto.
-          tr(style="background-color: #F6F6F6")
-            td Estructuras de costos con parámetros incrementales: aumento en la demanda de bienes y servicios.
-          tr(style="background-color: #F6F6F6")
-            td Estructuras de costos sumergidos: costos ocultos en el proceso no se contaba con ellos.
           tr
+            td Estructuras de costos irrelevantes: son adquiridos para dejarlos en inventario considerados como partícipes del ensamble de productos de línea en la empresa.
+          tr
+            td Estructuras de costos desembolsables: aquellos cuyo costo se debe pagar sin ningún tipo de ventajas ni de tiempo ni arancelaria.
+          tr
+            td Estructuras de costos de oportunidad: desembolsos realizados para adquirir inventarios que por subasta aparecen en el mercado a bajo costo.
+          tr
+            td Estructuras de costos de acuerdo con los cambios originados por un aumento o disminución en la actividad, eventos de orden público, pandemias, entre otros.
+          tr
+            td Estructuras de costos con diferenciales: se originan por cambios monetarios en el precio de adquisición, originados por inflación en los países.
+          tr
+            td Estructuras de costos decrementales: disminución de la demanda del producto.
+          tr
+            td Estructuras de costos con parámetros incrementales: aumento en la demanda de bienes y servicios.
+          tr
+            td Estructuras de costos sumergidos: costos ocultos en el proceso no se contaba con ellos.
+          tr(style="background-color: #F6F6F6")
             td(rowspan="2") Estructuras de costos en concordancia a una disminución de actividades:
             td Sistemas estructurales de costos evitables: costos reales presentes en la manufactura de un bien o prestación de servicios, pero son eventuales y no se contaba con ellos. 
             td(rowspan="2") 
-          tr
+          tr(style="background-color: #F6F6F6")
             td Sistemas estructurales de costos inevitables: sí o sí están presentes en la hoja de relación de costos del producto o servicio.     
     p.mb-5 Algunos aspectos de relevancia presentes en los sistemas de costos son:  
     .row.justify-content-center.align-items-center.mb-5
@@ -668,6 +669,8 @@
       .col-lg-4.bg1.p-3.mb-5
         h3.text-white.text-center.mb-0 Costos predeterminados
     .row.justify-content-center(data-aos="fade-left").mb-5
+      p El valorizar los tributos de los componentes que se registran e individualizan en cada planilla u orden de pedido, viabiliza estar al tanto del costo de cada pedido u orden de fabricación. Es sustancialmente conveniente cuando la elaboración logística de bienes y servicios radica en actividades o acciones especiales, la realidad que se busca es procesar materias primas para que los resultados obtenidos sean con parámetros de calidad semejantes y el modelo de producción empleado sea estandarizado o perenne. 
+      p Conservar los estimados en tiempos y reutilizar este histórico encamina a elaborar una unidad de producto en congruencia con lo planificado, conserva los costos establecidos y el costo de valor de venta depende marcadamente de lo que invertimos económicamente en los costos de la producción. 
       .col-lg-10.mb-4
         .tarjeta-avatar-b.mb-0.h-100
           .tarjeta-avatar-b__img

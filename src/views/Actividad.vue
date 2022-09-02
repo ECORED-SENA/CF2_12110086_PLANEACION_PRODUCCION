@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Verdadero o falso
+          h2 Plan estratégico de costos y presupuestos
         p.mb-4 #[b Objetivo] Reconocer e identificar conceptos clave para el desarrollo de un plan estratégico de costos y presupuestos con miras a la sostenibilidad financiera de la empresa.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
