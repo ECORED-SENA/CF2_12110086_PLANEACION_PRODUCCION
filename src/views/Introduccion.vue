@@ -13,9 +13,9 @@
       p.mb-5 En el siguiente video se resalta la importancia del tema de costos y presupuestos para la planificación de la producción, el cual se tratará a lo largo de este componente formativo: 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/MMXvQODLbLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
-    
+       
 </template>
 
 <script>
