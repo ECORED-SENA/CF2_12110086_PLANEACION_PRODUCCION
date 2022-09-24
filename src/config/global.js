@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Costos y presupuestos',
     descripcionCurso:
       'Este componente tratará el diseño del presupuesto general en las empresas. Comprender qué es lo que se va a producir, en qué período de tiempo y sus costos determinan el nivel de trazabilidad y control de los servicios o productos de manera eficiente con los parámetros de calidad exigidos.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
