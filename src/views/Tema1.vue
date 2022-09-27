@@ -33,7 +33,7 @@
          p.p-3.bg5 La capacidad de diseñar sistemas de costeo está en manos del personal que utiliza la información documentada para cumplir con metas propuestas por la gerencia operacional de la compañía, al realizar estudios prácticos sobre el valor económico de los recursos. El aprovechamiento de esta información quedará disponible para comprender el uso mismo de la contabilidad de costos y proporcionar datos relevantes para eliminar variaciones en el costo económico de proceso. 
       .col-lg-5.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/tema1/img1.png').m-auto(data-aos="fade-right")
+          img(src='@/assets/curso/tema1/img3.png').m-auto(data-aos="fade-right")
     p.mb-5 Para recopilar información clave sobre los sistemas de costeo es necesario: 
     SlyderF(columnas="col-lg-6 col-xl-4").mb-5
       .tarjeta-avatar
@@ -159,7 +159,7 @@
         h3.text-white.text-center.mb-0 Diferencia entre costo y gasto
     .row.bg13.justify-content-center.align-items-center.p-5.mb-5
       .col-md-9.col-12
-        p.p-3.bg12 El costo se muestra siempre en relación con el desembolso de un capital para afrontar un proceso logístico de manufactura o brindar un intangible, en su defecto el ítem del gasto se muestra por el desembolso de capital para administrar tareas de acompañamiento administrativo y de poner en venta lo que sea el resultado. 
+        h4.p-3.bg12.shadow El costo se muestra siempre en relación con el desembolso de un capital para afrontar un proceso logístico de manufactura o brindar un intangible, en su defecto el ítem del gasto se muestra por el desembolso de capital para administrar tareas de acompañamiento administrativo y de poner en venta lo que sea el resultado. 
       .col-md-3.col-12.p-3
         figure
           img(src='@/assets/curso/tema1/img16.svg')
@@ -168,7 +168,7 @@
         figure
           img(src='@/assets/curso/tema1/img18.svg')
       .col-md-9.col-12
-        p.p-3.bg12 Un gasto administra un proceso de prestación de servicio o manufactura de un producto, por esta causa su control debe ser estricto. El costo, aunque su control es fijo, depende del mercado de proveedores. 
+        h4.p-3.bg12.shadow Un gasto administra un proceso de prestación de servicio o manufactura de un producto, por esta causa su control debe ser estricto. El costo, aunque su control es fijo, depende del mercado de proveedores. 
       .row.justify-content-center.align-items-center
         .row.bg2.justify-content-center.align-items-center.borde
           .col-md-9
@@ -277,25 +277,21 @@
       .col-lg-7.bg1.p-3.mb-5
         h3.text-white.text-center.mb-0 Costos generales de manufactura, costos fijos y costos variables
     p.mb-5 En infraestructuras de manufactura y servicio se estructura un catálogo de costos en concordancia a los procedimientos directamente relacionados con acciones logísticas de manufactura y al tiempo de respuesta para estimar las fechas de entrega del producto o servicio. Estos costos se estructuran según sean:
-    .row.justify-content-center.align-items-center.mb-5
-      .col-sm-4.col-lg-4.mb-4.mb-lg-0
-        .tarjeta--boton1.bg8.text-black.p-4.mb-5.mb-lg-0
-          .row.justify-content-center.mb-3
-            .col-12
-              figure
-                img(src='@/assets/curso/tema1/img26.png', alt='Texto que describa la imagen')
-            .col-12.bg16.p-4
-              h4.text-center Costos variables
-              p.pb-3 Todos los valores monetarios y desembolsos donde la cantidad varía para ejecutar la acción.
-      .col-sm-4.col-lg-4.mb-4.mb-lg-0
-        .tarjeta--boton1.bg8.text-black.p-4
-          .row.justify-content-center.mb-3
-            .col-12
-              figure
-                img(src='@/assets/curso/tema1/img27.png', alt='Texto que describa la imagen')
-            .col-12.bg16.p-4
-              h4.text-center Costos fijos
-              p Desembolsos o valores económicos que en su valor monetario no cambia en concordancia a la acción de logística de manufactura. Estos permanecen un buen periodo de tiempo y su comportamiento histórico es muy constante.
+    .row.justify-content-center.mb-5
+      .col-sm-5.col-md-10.col-lg-5.mb-4.mb-lg-0
+        .bg8.p-4
+          figure
+            img(src='@/assets/curso/tema1/img26.png', alt='Texto que describa la imagen')
+        div.bg16.p-4
+          h4.text-center Costos variables
+          p.mb-0 Todos los valores monetarios y desembolsos donde la cantidad varía para ejecutar la acción.
+      .col-sm-5.col-md-10.col-lg-5.mb-4.mb-lg-0
+        .bg8.p-4
+          figure
+            img(src='@/assets/curso/tema1/img27.png', alt='Texto que describa la imagen')
+        div.bg16.p-4
+          h4.text-center Costos fijos
+          p.mb-0 Desembolsos o valores económicos que en su valor monetario no cambia en concordancia a la acción de logística de manufactura. Estos permanecen un buen periodo de tiempo y su comportamiento histórico es muy constante.
     p.mb-5 En estructuras de contabilidad de costos se conocen tres esquemas:
     .row.mb-2.align-items-center
       .col-lg-5.bg1.p-3.mb-5
@@ -306,12 +302,12 @@
           img(src='@/assets/curso/tema1/img28.svg')
       .col-md-8.col-12.px-0
         h3 Estructura de los costos fijos comprometidos
-        p.p-3.bg12 Se registra como todo aquel desembolso que se perfila para soportar y maniobrar con los activos fijos, entre otros, aire acondicionado, iluminación, energía, agua, servicios de comunicación e internet. 
+        h4.p-3.bg12.shadow Se registra como todo aquel desembolso que se perfila para soportar y maniobrar con los activos fijos, entre otros, aire acondicionado, iluminación, energía, agua, servicios de comunicación e internet. 
       .col-md-12.mt-5.mb-5.borde_2
         
       .col-md-8.col-12.pe-1.mb-3.mb-lg-0
         h4 Estructura de los costos fijos de operación
-        p.p-3.bg12 Se registra como todo aquel ítem donde los valores y desembolsos de los proyectos específicos aprobados por la gerencia en el plan de maestro de la producción son de extrema prioridad,  algunos son los sistemas estructurales de gestión de la calidad, cambio a energías renovables, plan de inversión en recuperación de desperdicios de materias primas e insumos, entre otros.
+        h4.p-3.bg12.shadow Se registra como todo aquel ítem donde los valores y desembolsos de los proyectos específicos aprobados por la gerencia en el plan de maestro de la producción son de extrema prioridad,  algunos son los sistemas estructurales de gestión de la calidad, cambio a energías renovables, plan de inversión en recuperación de desperdicios de materias primas e insumos, entre otros.
       .col-md-4.col-12.px-0
         figure
           img(src='@/assets/curso/tema1/img29.svg')
@@ -321,7 +317,7 @@
           img(src='@/assets/curso/tema1/img47.svg')
       .col-md-8.col-12.px-0.mb-5
         h3 Estructura de los costos fijos programados
-        p.p-3.bg12 Son una lista no menos importante de costos indirectos que no se modifica directamente y en simetría con los cambios y las acciones de manufactura logística, son llamados semivariables o semifijos. Se los nombra repetidamente ya sean como fijos o como variables, acción que estriba de sus particularidades predominantes, el más común es el salario de los líderes o supervisores de proceso. 
+        h4.p-3.bg12.shadow Son una lista no menos importante de costos indirectos que no se modifica directamente y en simetría con los cambios y las acciones de manufactura logística, son llamados semivariables o semifijos. Se los nombra repetidamente ya sean como fijos o como variables, acción que estriba de sus particularidades predominantes, el más común es el salario de los líderes o supervisores de proceso. 
       
       .row.justify-content-center.align-items-center
         .row
@@ -423,7 +419,7 @@
       .col-10.bg6.p-4
         .row.align-items-center.justify-content-center
           .col-lg-11
-            p.mb-0 Para profundizar en este tema se sugiere que consulte en la web el eBook Contabilidad y análisis de costos de Magdalena Arredondo, específicamente el capítulo 2, pp.11-30.
+            p.mb-5 Para profundizar en este tema se sugiere que consulte en la web el eBook Contabilidad y análisis de costos de Magdalena Arredondo, específicamente el capítulo 2, pp.11-30.
           .col-lg-1.mb-3
             figure
               img.img-t(src='@/assets/curso/tema1/img80.svg').mx-auto(data-aos="fade-right")
@@ -525,58 +521,54 @@
           tr(style="background-color: #F6F6F6")
             td Sistemas estructurales de costos inevitables: sí o sí están presentes en la hoja de relación de costos del producto o servicio.     
     p.mb-5 Algunos aspectos de relevancia presentes en los sistemas de costos son:  
-    .row.justify-content-center.align-items-center.mb-5
-      .col-sm-4.col-lg-6.mb-4.mb-lg-0
-        .tarjeta--boton2.bg8.text-black.p-4.mb-5
-          .row.justify-content-center.mb-3
-            .col-9
-              figure
-                img(src='@/assets/curso/tema1/img27.png', alt='Texto que describa la imagen')
-            .col-12.bg9.p-4
-              h4.text-center Costos fijos
-              ul.lista-ul
-                li 
-                  i.fas.fa-cog(style="color:#2C78DC")
-                  p.mb-0 La normativa de que toda estructura de costos fijos sea de fácil vigilancia en cuanto a su valor monetario.
-                li 
-                  i.fas.fa-cog(style="color:#2C78DC")
-                  p.mb-0 Debe responder a la capacidad de carga de unidades que la planeación monta en el proceso productivo.
-                li 
-                  i.fas.fa-cog(style="color:#2C78DC")
-                  p.mb-0 Su consecución debe estar a cargo de niveles administrativos y de planificación.
-                li 
-                  i.fas.fa-cog(style="color:#2C78DC")
-                  p.mb-0 Su inventario relacionado forma parte del plan maestro de la producción.
-                li   
-                  i.fas.fa-cog(style="color:#2C78DC")
-                  p.mb-0 Deben tener ruta crítica de adquisición identificada.
-                li
-                  i.fas.fa-cog(style="color:#2C78DC")
-                  p.mb-0 Siempre realizar planes de trazabilidad permanente.
-      .col-sm-4.col-lg-6.mb-5
-        .tarjeta--boton2.bg8.text-black.p-4
-          .row.justify-content-center.mb-3
-            .col-9
-              figure
-                img(src='@/assets/curso/tema1/img26.png', alt='Texto que describa la imagen')
-            .col-12.bg11.p-4
-              h4.text-center Costos variables
-              ul.lista-ul
-                li 
-                  i.fas.fa-cog(style="color:#2C78DC")
-                  p.mb-0 La normativa de que toda estructura de costos variable sea de fácil vigilancia en cuanto a su valor monetario.
-                li 
-                  i.fas.fa-cog(style="color:#2C78DC")
-                  p.mb-0 La variabilidad del costo monetario debe ser mínima.
-                li 
-                  i.fas.fa-cog(style="color:#2C78DC")
-                  p.mb-0 Su inventario relacionado forma parte del plan maestro de la producción.
-                li 
-                  i.fas.fa-cog(style="color:#2C78DC")
-                  p.mb-0 Deben tener una ruta crítica de adquisición identificada.
-                li 
-                  i.fas.fa-cog(style="color:#2C78DC")
-                  p.mb-0 Siempre realizar planes de trazabilidad permanente.
+    .row.justify-content-center
+      .col-sm-4.col-md-12.col-lg-6.mb-4.mb-lg-0
+        .bg8.p-4
+          figure
+            img(src='@/assets/curso/tema1/img27.png', alt='Texto que describa la imagen')
+        div.bg9.p-4
+          h4.text-center Costos fijos
+          ul.lista-ul
+            li 
+              i.fas.fa-cog(style="color:#2C78DC")
+              p.mb-0 La normativa de que toda estructura de costos fijos sea de fácil vigilancia en cuanto a su valor monetario.
+            li 
+              i.fas.fa-cog(style="color:#2C78DC")
+              p.mb-0 Debe responder a la capacidad de carga de unidades que la planeación monta en el proceso productivo.
+            li 
+              i.fas.fa-cog(style="color:#2C78DC")
+              p.mb-0 Su consecución debe estar a cargo de niveles administrativos y de planificación.
+            li 
+              i.fas.fa-cog(style="color:#2C78DC")
+              p.mb-0 Su inventario relacionado forma parte del plan maestro de la producción.
+            li   
+              i.fas.fa-cog(style="color:#2C78DC")
+              p.mb-0 Deben tener ruta crítica de adquisición identificada.
+            li
+              i.fas.fa-cog(style="color:#2C78DC")
+              p.mb-0 Siempre realizar planes de trazabilidad permanente.
+      .col-sm-4.col-md-12.col-lg-6.mb-5
+        .bg8.p-4
+          figure
+            img(src='@/assets/curso/tema1/img26.png', alt='Texto que describa la imagen')
+        div.bg9.p-4
+          h4.text-center Costos variables
+          ul.lista-ul
+            li 
+              i.fas.fa-cog(style="color:#2C78DC")
+              p.mb-0 La normativa de que toda estructura de costos variable sea de fácil vigilancia en cuanto a su valor monetario.
+            li 
+              i.fas.fa-cog(style="color:#2C78DC")
+              p.mb-0 La variabilidad del costo monetario debe ser mínima.
+            li 
+              i.fas.fa-cog(style="color:#2C78DC")
+              p.mb-0 Su inventario relacionado forma parte del plan maestro de la producción.
+            li 
+              i.fas.fa-cog(style="color:#2C78DC")
+              p.mb-0 Deben tener una ruta crítica de adquisición identificada.
+            li 
+              i.fas.fa-cog(style="color:#2C78DC")
+              p.mb-0 Siempre realizar planes de trazabilidad permanente.
     .row.mb-5.align-items-center
       .col-lg-4.bg1.p-3
         h3.text-white.text-center.mb-0 Costos por órdenes de producción.

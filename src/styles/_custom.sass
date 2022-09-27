@@ -38,7 +38,7 @@
   background-color: #E9F4F9
    
 .bg3
-  background-color: #E9EEF9
+  background-color: #CADDF6
 
 .bg4
   position: relative
@@ -83,19 +83,18 @@
 
 .bg8
   background-color: #083898
-  border-radius: 40px
+  border-top-left-radius: 40px
+  border-top-right-radius: 40px
 
 .bg9
   background-color: #DEE8FE
   border-end-start-radius: 40px
   border-end-end-radius: 40px
-  height: 374px
-  width: 630px
-  max-width: 510px
-  @media (max-width: $bp-max-md)
-    width: 395px
-    max-width: 366px
-    height: 456px
+  height: 390px
+  @media (max-width: $bp-max-sm)
+    height: 360px
+  @media (max-width: $bp-max-xs)
+    height: 470px
 
 .bg10
   position: relative
@@ -112,6 +111,10 @@
     background-image: url("../assets/curso/tema1/img19.png") 
     background-repeat: no-repeat
     background-size: contain
+    @media (max-width: $bp-max-md)
+      background-size: cover
+      left: -8px
+      width: calc( 100% + 1rem)
 
 .bg11
   background-color: #DEE8FE
@@ -142,13 +145,10 @@
   background-color: #DEE8FE
   border-end-start-radius: 40px
   border-end-end-radius: 40px
-  height: 257px
-  width: 332px
-  max-width: 410px
+  height: 199px
   @media (max-width: $bp-max-md)
-    width: 395px
-    max-width: 366px
-    height: 256px
+    height: 220px
+    
 
 .bg17
   background-color: #DEE8FE
@@ -176,7 +176,7 @@
     left: -8px
     width: 30%
     height: 35%
-    background-color: #FEF3F3
+    background-color: #FCCFCF
     z-index: 0
 
 .txt-color1
@@ -273,7 +273,7 @@
   color: #12263F
 
 .tarjeta.color-primario4
-  background-color: #E9F4F9
+  background-color: #DAE3F6
   width: 100%
   height: 250px
 
@@ -308,4 +308,5 @@
   top: 15px
   width: 135px
     
-
+.tabs-c__tab--active
+  font-weight: bold

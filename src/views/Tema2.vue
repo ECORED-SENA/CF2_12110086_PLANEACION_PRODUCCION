@@ -46,7 +46,7 @@
         p ¿Se ha despilfarrado dinero en el pasado? Si fuera así, ¿se puede evitar en el futuro?
       .col-lg-4.mb-4.mb-lg-0.d-flex.justify-content-center.align-items-center
         figure
-          img(src='@/assets/curso/tema2/img3.svg').m-auto(data-aos="fade-right")
+          img.img-t(src='@/assets/curso/tema2/img3.svg').mx-auto(data-aos="fade-right")
     .bg4
       .row.mb-4.align-items-center(data-aos="fade-left")
         .col-lg-4.mb-4.mb-lg-0.d-flex.justify-content-center.align-items-center
@@ -169,7 +169,7 @@
       .col-10.bg5.p-4
         .row.align-items-center.justify-content-center
           .col-lg-11
-            p.mb-0 Para profundizar en el tema de presupuestos, se sugiere ver el documento Elaboración de un presupuesto por <em>Janet Shapiro</em> en el material complementario
+            p.mb-5 Para profundizar en el tema de presupuestos, se sugiere ver el documento Elaboración de un presupuesto por <em>Janet Shapiro</em> en el material complementario
           .col-lg-1.mb-3
             figure
               img.img-t(src='@/assets/curso/tema1/img80.svg').mx-auto(data-aos="fade-right")

@@ -5,8 +5,8 @@
   
     .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
-        span.text-white i 
-          
+        span
+          i.fas.fa-info.text-white 
       h1 Introducción
     .dual-txt-deco
       p.mb-5(data-aos="fade-right")(style="position: relative; z-index: 1;") En la actualidad un reducido número de industrias implementa infraestructuras tecnológicas nuevas, emergentes y sostenibles que les ayuda a reducir costos en general. No perfeccionar sistemas de control del factor humano y, más aún, la disminución en los indicadores matemáticos de eficiencia relacionados con el número de unidades o prestación de servicios, conlleva un reordenamiento de estrategias aplicadas en los procesos logísticos, lo que supone cambios obligatorios al interior de los sistemas de producción que, sin lugar a dudas, eleva los costos, los procesos y los procedimientos se vuelven poco versátiles, inflexibles y muy deficientes.

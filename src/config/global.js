@@ -49,7 +49,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: '. Definición del costo',
+            titulo: 'Definición del costo',
             hash: 't_1_2',
           },
           {
