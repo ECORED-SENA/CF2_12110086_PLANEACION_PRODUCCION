@@ -152,14 +152,14 @@
           img(src='@/assets/curso/tema1/img14.svg').m-auto
       .col-lg-7
         p La prestación del servicio o la manufactura del producto, tienen la posibilidad de salir a un mercado con desventajas con respecto a la competencia en punto de equilibrio y al empresario le conviene establecer los extremos, o por debajo o alejado de los techos, eventos importantes para que un cliente los acepte.
-        p.p-3.bg6 Las mercancías distribuidas y los servicios prestados no incluyen dentro de su infraestructura de precios la diferenciación, simplemente al ser entregados al cliente, estos se ajustan o no a los presupuestos que fueron negociados. 
+        p.p18.p-3.bg6 Las mercancías distribuidas y los servicios prestados no incluyen dentro de su infraestructura de precios la diferenciación, simplemente al ser entregados al cliente, estos se ajustan o no a los presupuestos que fueron negociados. 
     p.mb-5 Se debe diferenciar un costo de un gasto así:
     .row.mb-2.align-items-center
       .col-lg-4.bg1.p-3.mb-5
         h3.text-white.text-center.mb-0 Diferencia entre costo y gasto
     .row.bg13.justify-content-center.align-items-center.p-5.mb-5
       .col-md-9.col-12
-        h4.p-3.bg12.shadow El costo se muestra siempre en relación con el desembolso de un capital para afrontar un proceso logístico de manufactura o brindar un intangible, en su defecto el ítem del gasto se muestra por el desembolso de capital para administrar tareas de acompañamiento administrativo y de poner en venta lo que sea el resultado. 
+        p.p18.p-3.bg12.shadow El costo se muestra siempre en relación con el desembolso de un capital para afrontar un proceso logístico de manufactura o brindar un intangible, en su defecto el ítem del gasto se muestra por el desembolso de capital para administrar tareas de acompañamiento administrativo y de poner en venta lo que sea el resultado. 
       .col-md-3.col-12.p-3
         figure
           img(src='@/assets/curso/tema1/img16.svg')
@@ -168,11 +168,11 @@
         figure
           img(src='@/assets/curso/tema1/img18.svg')
       .col-md-9.col-12
-        h4.p-3.bg12.shadow Un gasto administra un proceso de prestación de servicio o manufactura de un producto, por esta causa su control debe ser estricto. El costo, aunque su control es fijo, depende del mercado de proveedores. 
+        p.p18.p-3.bg12.shadow Un gasto administra un proceso de prestación de servicio o manufactura de un producto, por esta causa su control debe ser estricto. El costo, aunque su control es fijo, depende del mercado de proveedores. 
       .row.justify-content-center.align-items-center
         .row.bg2.justify-content-center.align-items-center.borde
           .col-md-9
-            p El costo forma parte integral del resultado obtenido, terminado o intangible, y es factible observarlo; en su defecto, el gasto es imperceptible, por lo tanto, supuestamente no es relevante para integrar el precio de venta de ambos.
+            p.p18 El costo forma parte integral del resultado obtenido, terminado o intangible, y es factible observarlo; en su defecto, el gasto es imperceptible, por lo tanto, supuestamente no es relevante para integrar el precio de venta de ambos.
           .col-md-2.col-12.p-3
             figure
               img(src='@/assets/curso/tema1/img17.svg')
@@ -302,12 +302,12 @@
           img(src='@/assets/curso/tema1/img28.svg')
       .col-md-8.col-12.px-0
         h3 Estructura de los costos fijos comprometidos
-        h4.p-3.bg12.shadow Se registra como todo aquel desembolso que se perfila para soportar y maniobrar con los activos fijos, entre otros, aire acondicionado, iluminación, energía, agua, servicios de comunicación e internet. 
+        p.p18.p-3.bg12.shadow Se registra como todo aquel desembolso que se perfila para soportar y maniobrar con los activos fijos, entre otros, aire acondicionado, iluminación, energía, agua, servicios de comunicación e internet. 
       .col-md-12.mt-5.mb-5.borde_2
         
       .col-md-8.col-12.pe-1.mb-3.mb-lg-0
         h4 Estructura de los costos fijos de operación
-        h4.p-3.bg12.shadow Se registra como todo aquel ítem donde los valores y desembolsos de los proyectos específicos aprobados por la gerencia en el plan de maestro de la producción son de extrema prioridad,  algunos son los sistemas estructurales de gestión de la calidad, cambio a energías renovables, plan de inversión en recuperación de desperdicios de materias primas e insumos, entre otros.
+        p.p18.p-3.bg12.shadow Se registra como todo aquel ítem donde los valores y desembolsos de los proyectos específicos aprobados por la gerencia en el plan de maestro de la producción son de extrema prioridad,  algunos son los sistemas estructurales de gestión de la calidad, cambio a energías renovables, plan de inversión en recuperación de desperdicios de materias primas e insumos, entre otros.
       .col-md-4.col-12.px-0
         figure
           img(src='@/assets/curso/tema1/img29.svg')
@@ -317,7 +317,7 @@
           img(src='@/assets/curso/tema1/img47.svg')
       .col-md-8.col-12.px-0.mb-5
         h3 Estructura de los costos fijos programados
-        h4.p-3.bg12.shadow Son una lista no menos importante de costos indirectos que no se modifica directamente y en simetría con los cambios y las acciones de manufactura logística, son llamados semivariables o semifijos. Se los nombra repetidamente ya sean como fijos o como variables, acción que estriba de sus particularidades predominantes, el más común es el salario de los líderes o supervisores de proceso. 
+        p.p18.p-3.bg12.shadow Son una lista no menos importante de costos indirectos que no se modifica directamente y en simetría con los cambios y las acciones de manufactura logística, son llamados semivariables o semifijos. Se los nombra repetidamente ya sean como fijos o como variables, acción que estriba de sus particularidades predominantes, el más común es el salario de los líderes o supervisores de proceso. 
       
       .row.justify-content-center.align-items-center
         .row
