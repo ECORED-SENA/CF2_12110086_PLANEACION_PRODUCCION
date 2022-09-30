@@ -135,32 +135,32 @@
       .col-lg-5.bg1.p-3.mb-5
         h3.text-white.text-center.mb-0 LOS PRESUPUESTOS Y SU IMPORTANCIA
     SlyderF(columnas="col-lg-6 col-xl-4").mb-5
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema2/img7.svg' alt='AvatarTop')
         .tarjeta.color-primario5
           .p-4
             p.mb-0 El presupuesto indica cuánto dinero se necesita para llevar a cabo diferentes actividades.
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema2/img8.svg' alt='AvatarTop')
         .tarjeta.color-primario5
           .p-4
             p.mb-0 El presupuesto permite controlar los ingresos y gastos e identificar cualquier tipo de problemas.
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema2/img9.svg' alt='AvatarTop')
         .tarjeta.color-primario5
           .p-4
             pmb-0 El presupuesto obliga a pensar rigurosamente sobre las consecuencias de la planificación de actividades. Hay momentos en los que la realidad del proceso presupuestario obliga a replantearse los planes de acción.
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema2/img10.svg' alt='AvatarTop')
         .tarjeta.color-primario5
           .p-4
             p.mb-0 El presupuesto constituye una buena base para la contabilidad y transparencia financiera. Cuando todos pueden ver cuánto debería haberse gastado y recibido, se pueden plantear preguntas bien fundadas sobre discrepancias.
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema2/img11.svg' alt='AvatarTop')
         .tarjeta.color-primario5
           .p-4
             p.mb-0 Si se utiliza de manera correcta, el presupuesto indica cuándo se necesitarán ciertas cantidades de dinero para llevar a cabo las actividades.
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema2/img12.svg' alt='AvatarTop')
         .tarjeta.color-primario5
           .p-4
@@ -169,7 +169,7 @@
       .col-10.bg5.p-4
         .row.align-items-center.justify-content-center
           .col-lg-11
-            p.mb-5 Para profundizar en el tema de presupuestos, se sugiere ver el documento Elaboración de un presupuesto por <em>Janet Shapiro</em> en el material complementario
+            p.mb-5 Para profundizar en el tema de presupuestos, se sugiere ver el documento #[b Elaboración de un presupuesto por #[i Janet Shapiro] en el material complementario.]
           .col-lg-1.mb-3
             figure
               img.img-t(src='@/assets/curso/tema1/img80.svg').mx-auto(data-aos="fade-right")

@@ -36,42 +36,42 @@
           img(src='@/assets/curso/tema1/img3.png').m-auto(data-aos="fade-right")
     p.mb-5 Para recopilar información clave sobre los sistemas de costeo es necesario: 
     SlyderF(columnas="col-lg-6 col-xl-4").mb-5
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema1/img4.svg' alt='AvatarTop')
         .tarjeta.color-primario4
           .p-4
             p.mb-0 Utilizar eficazmente <em>software</em> especializado para la elaboración de plan de costeo de la producción.
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema1/img5.svg' alt='AvatarTop')
         .tarjeta.color-primario4
           .p-4
             p.mb-0 Implementar estrategias relacionadas con el análisis sistémico del control efectivo de los costos de manufactura y servicio. 
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema1/img6.svg' alt='AvatarTop')
         .tarjeta.color-primario4
           .p-4
             pmb-0 Conceptualizar sobre el valor agregado y la confianza que genera a las estructuras fabriles y de servicio, el construir sistemas estratégicos de precio de venta del producto.
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema1/img7.svg' alt='AvatarTop')
         .tarjeta.color-primario4
           .p-4
             p.mb-0 Analizar las diferencias que existen entre la contabilidad de costos, la contabilidad administrativa y la contabilidad financiera.
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema1/img8.svg' alt='AvatarTop')
         .tarjeta.color-primario4
           .p-4
             p.mb-0 Distinguir la diferencia entre planeación de costos y control de costos.
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema1/img11.svg' alt='AvatarTop')
         .tarjeta.color-primario4
           .p-4
             p.mb-0 Diferenciar los conceptos de costos y gastos. 
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema1/img9.svg' alt='AvatarTop')
         .tarjeta.color-primario4
           .p-4
             p.mb-0 Establecer la utilidad de la clasificación de costos generales de producción. 
-      .tarjeta-avatar
+      .tarjeta-avatar.slyderF-media
         img(src='@/assets/curso/tema1/img10.svg' alt='AvatarTop')
         .tarjeta.color-primario4
           .p-4
@@ -417,12 +417,16 @@
           img.mb-5(src='@/assets/curso/tema1/img34.png')(data-aos="fade-left")
     .row.mb-5.justify-content-center
       .col-10.bg6.p-4
-        .row.align-items-center.justify-content-center
+        .row
           .col-lg-11
             p.mb-5 Para profundizar en este tema se sugiere que consulte en la web el eBook Contabilidad y análisis de costos de Magdalena Arredondo, específicamente el capítulo 2, pp.11-30.
           .col-lg-1.mb-3
             figure
               img.img-t(src='@/assets/curso/tema1/img80.svg').mx-auto(data-aos="fade-right")
+          .col-sm-auto
+              a.boton.color-acento-botones.me-3.mg4(href="https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/40440" target="_blank").mb-0
+                span Ver más
+                i.fas.fa-link 
     Separador
     #t_1_5
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -633,7 +637,7 @@
     .bg10             
       .row.align-items-center.mb-5
         .col-lg-8(data-aos="fade-right")
-          p Un proceso es una organización o sección de la empresa en la cual se realiza un trabajo específico, técnico y repetitivo. Se emplean términos como: secciones, centros de liderazgo, manual de funciones y operaciones, centros de costos entre otros. Los sistemas de producción pueden ser flexibles versátiles y emplearse para el ensamble de muchas referencias. De igual manera, cualquier bien puede pasar por secciones distintas o varias áreas. 
+          p Un proceso es una organización o sección de la empresa en la cual se realiza un trabajo específico, técnico y repetitivo. Se emplean términos como: secciones, centros de liderazgo, manual de funciones y operaciones, centros de costos, entre otros. Los sistemas de producción pueden ser flexibles versátiles y emplearse para el ensamble de muchas referencias. De igual manera, cualquier bien puede pasar por secciones distintas o varias áreas. 
           p El plan maestro de producción depende de las condiciones y técnicas del diseño especializadas como son:
           ul.lista-ul
             li 

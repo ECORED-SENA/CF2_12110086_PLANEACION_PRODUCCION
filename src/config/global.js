@@ -185,7 +185,7 @@ export default {
         'conteo que permite identificar plenamente las cantidades y valores (al costo) de todos los elementos de que dispone la empresa.',
     },
     {
-      termino: 'Mano de obra directa ',
+      termino: 'Mano de obra directa',
       significado:
         'recurso humano que transforma la materia prima y agrega valor.',
     },
@@ -255,7 +255,7 @@ export default {
     },
     {
       referencia:
-        'Westwood, J. (1991). Planeación de mercados. Análisis evaluación y estrategias de serie empresarial. Legis.',
+        'Westwood, J. (1991). Planeación de mercados. Análisis, evaluación y estrategias de serie empresarial. Legis.',
     },
   ],
   creditos: {
