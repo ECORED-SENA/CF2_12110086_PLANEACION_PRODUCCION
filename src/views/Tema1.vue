@@ -21,7 +21,7 @@
     p.mb-5 Antes de plantear los distintos escenarios que se presentan en toda la logística de la planificación y trazabilidad porcentual del proceso de manufactura y servicio y trabajar el contexto que lleva a instaurar un completo sistema de costos, se debe tener en cuenta el establecimiento de indicadores potenciales de los costos que muestran caminos de trazabilidad en los procesos logísticos de producción o servicios. 
     .row.justify-content-center.mb-5
       .col-lg-10
-        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-up-left")
+        .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="fade-left")
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img2.png')})`}"
           )        

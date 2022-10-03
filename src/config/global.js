@@ -73,7 +73,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.6',
-            titulo: '1.6. Cálculo de valor minuto en procesos de manufactura',
+            titulo: '1.6 Cálculo de valor minuto en procesos de manufactura',
             hash: 't_1_6',
           },
         ],

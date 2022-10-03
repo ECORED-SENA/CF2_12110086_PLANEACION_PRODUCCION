@@ -39,7 +39,7 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1 Conceptos generales de los presupuestos 
     .row.mb-4.align-items-center(data-aos="fade-left")
-      .col-lg-7
+      .col-lg-6
         p De acuerdo con <em>Shapiro</em> (2001), cuando se está desarrollando un presupuesto no se debe improvisar a medida que se realiza. Al igual que en todo buen ejercicio de administración de una organización, un buen ejercicio presupuestario implica claridad de propósito, planificación detallada y pensamiento considerable. 
         p.bg5.p-3  Estas son algunas de las preguntas para responder a lo largo de las distintas fases de preparación presupuestaria y el desarrollo real del presupuesto:
         p ¿Se pudo haber gastado menos el año pasado y aún haber conseguido los mismos o mejores resultados?
